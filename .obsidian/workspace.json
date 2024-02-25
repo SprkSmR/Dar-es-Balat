@@ -4,269 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "630431952b2ad7c3",
+        "id": "681794b9a9c47d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "bab427deee5a5600",
+            "id": "36184290c129d593",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "45c1e577293b1b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Integration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6c07a6c98cee94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7946d07f0910fc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3912c39f1eb7a523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnología/Términos comunes/Creación de proyectos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "396b3f34412ecb4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AJAX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "444c97b635429cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serverless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2885fbe0a1a55314",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "9cb1599b9ec970f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compliance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bdb1a6e452aec69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emprendimiento tecnológico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6c6d9eb8e5df16d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taller de Biblioteca Emprendimiento Tecnológico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "811f4cf785161aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de innovación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e757552c30f306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de innovación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e38d6d54df663ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curvas S de la tecnología.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6bb633189745005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo de vida de los productos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da54290c5e276c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análisis y modelación de sistemas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59552fa93e44c339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CENEVAL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e0f724cc3eb7182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Top-down.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3733d9d157fe643b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCIMAGO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5322bc290b2fa90a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Canvas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f66966c21ad36a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triángulo de Modelo de Negocio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5892ea660a448f98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Despliegue en la nube.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 21
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gith",
+                "query": "Limpiar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -333,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Despliegue en la nube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Despliegue en la nube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Despliegue en la nube.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -394,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27c098e65e246ec3",
+  "active": "36184290c129d593",
   "lastOpenFiles": [
+    "Tecnología/Términos comunes/Limpiar.md",
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
+    "Git.md",
+    "Limpiar datos almacenados en cache de git.md",
     "wwwroot.md",
     "Canvas.md",
     "Design Thinking.md",
@@ -423,15 +171,11 @@
     "Bool.md",
     "Valor.md",
     "Technology push.md",
-    "Compliance.md",
     "Pasted image 20240212113309.png",
     "Pasted image 20240212112400.png",
     "Pasted image 20240212112348.png",
     "Pasted image 20240212112204.png",
     "Pasted image 20240212111920.png",
-    "Azure App Service.md",
-    "Serverless.md",
-    "Publicar proyecto de ASP NET  a Azure.md",
     "Pasted image 20231011113021.png",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
