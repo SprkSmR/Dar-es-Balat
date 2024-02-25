@@ -1,0 +1,1 @@
+Estándar para navegadores.

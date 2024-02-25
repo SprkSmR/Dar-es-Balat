@@ -1,0 +1,1 @@
+De arriba hacia abajo. Desde lo más general hasta lo más particular

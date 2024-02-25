@@ -1,0 +1,1 @@
+Una tabla en una [[Base de datos]]

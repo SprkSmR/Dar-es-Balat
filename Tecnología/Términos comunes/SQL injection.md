@@ -1,0 +1,1 @@
+Desde un cliente se envían scripts [[SQL]] maliciosos al servidor para realizar cambios en la base de datos.

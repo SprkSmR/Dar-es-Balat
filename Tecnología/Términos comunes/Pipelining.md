@@ -1,0 +1,1 @@
+Característica del hardware que mejora la velocidad y eficiencia de un programa.

@@ -1,0 +1,3 @@
+- [[CPU]]
+- [[Memoria]]
+- Mecanismo de transferencia de datos desde y hacia el mundo

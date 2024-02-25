@@ -1,0 +1,1 @@
+Actúa como un oficial de tránsito, dirigiendo los datos hacia las ubicaciones correctas.

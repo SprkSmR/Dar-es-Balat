@@ -1,0 +1,1 @@
+Conjunto de [[Entity Framework]] que representa una tabla en las [[Base de datos]]. Contiene cada fila como un elemento del conjunto.

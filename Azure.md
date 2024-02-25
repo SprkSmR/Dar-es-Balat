@@ -1,0 +1,6 @@
+[[Azure Cosmos DB]]
+[[Azure App Service]]
+[[Azure SQL Database]]
+[[Azure Virtual Networks]]
+[[Azure Spring Apps]]
+[[Azure Virtual Machines]]

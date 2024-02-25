@@ -1,0 +1,1 @@
+Comercializar una innovación científica o tecnológica sin tener todavía un mercado definido.

@@ -1,0 +1,1 @@
+[[ORM]] para [[dotNET (.NET)]]. Es completamente open source y soportado por la comunidad. Es simple y con implementaciones más complejas es más conveniente [[Entity Framework]].

@@ -1,0 +1,1 @@
+Algoritmos tan complicados que toma demasiado tiempo correrlos en sistemas actuales. Debido a la naturaleza del problema o a su optimización.

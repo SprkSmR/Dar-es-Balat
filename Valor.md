@@ -1,0 +1,1 @@
+Autoexplicativo. Lo que hace que importe. Todas las razones o beneficios que una empresa ofrece a un cliente. Puede ser que el cliente sepa o no que tiene una necesidad. 

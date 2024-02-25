@@ -1,0 +1,1 @@
+Para ver los cuartiles de una revista

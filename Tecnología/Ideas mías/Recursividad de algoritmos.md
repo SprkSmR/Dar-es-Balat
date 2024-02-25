@@ -1,0 +1,1 @@
+En una computadora, todo se compone de algoritmos. Un programa (que contiene algoritmos) escrito en un lenguaje de alto nivel corre en una computadora gracias a otros algoritmos de más bajo nivel, y así sucesivamente hasta llegar a lo más básico posible: [[Código máquina]]. 

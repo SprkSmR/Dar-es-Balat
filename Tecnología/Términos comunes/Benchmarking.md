@@ -1,0 +1,1 @@
+Aplicación de técnicas para medir el rendimiento de algo.

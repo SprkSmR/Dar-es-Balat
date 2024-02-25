@@ -1,0 +1,1 @@
+Almacenan datos que el [[CPU]] necesita acceder rápidamente. Cuando un programa corre, el [[CPU]] ejecuta las instrucciones encontradas en [[Memoria]]. 

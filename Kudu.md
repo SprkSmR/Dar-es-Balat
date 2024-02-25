@@ -1,0 +1,1 @@
+Herramienta de código abierto de productividad para desarrolladores que corre como un proceso separado en [[Windows]] [[Azure App Service]] y como un [[[contenedor]]] secundario en [[Linux]] [[Azure App Service]]. Se encarga del despliegue continuo y provee [[Endpoint]]s [[HTTP]], como [[zipdeploy/]].

@@ -1,0 +1,1 @@
+Lenguaje [[funcional]] de Microsoft

@@ -1,0 +1,1 @@
+Lenguaje ensamblador. Abreviado como ASM es un lenguaje de bajo nivel con una fuerte correspondencia entre las instrucciones del lenguaje y el [[Código máquina]] de la arquitectura.   

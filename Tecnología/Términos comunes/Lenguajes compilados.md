@@ -1,0 +1,1 @@
+De una sintáxis de alto nivel a una de bajo nivel.

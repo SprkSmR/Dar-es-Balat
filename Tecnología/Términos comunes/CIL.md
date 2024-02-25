@@ -1,0 +1,1 @@
+Common Intermediate Language. Este es el lenguaje de salida de un [[Compilador]] y de entrada de un [[CLR]]. Este lenguaje es [[Assembly]]. 
