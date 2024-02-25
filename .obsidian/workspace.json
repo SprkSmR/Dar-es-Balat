@@ -295,7 +295,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wwwr",
+                "query": "gith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -394,7 +394,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5892ea660a448f98",
+  "active": "27c098e65e246ec3",
   "lastOpenFiles": [
     "wwwroot.md",
     "Canvas.md",
