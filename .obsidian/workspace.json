@@ -11,11 +11,24 @@
             "id": "36184290c129d593",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b1e062a38b4f1a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Limpiar",
+                "query": "postgr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PostgreSQL.md"
+              }
             }
           }
         ],
@@ -138,15 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36184290c129d593",
+  "active": "b1e062a38b4f1a2f",
   "lastOpenFiles": [
-    "Tecnología/Términos comunes/Limpiar.md",
+    "Pasted image 20240225234735.png",
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+    "PostgreSQL.md",
+    "Post.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
+    "Tecnología/Términos comunes/Backend.md",
+    "Base de datos.md",
+    "Tecnología/Términos comunes/Web.md",
+    "AJAX.md",
+    "Pasted image 20231011113021.png",
+    "Design Thinking.md",
+    "Curvas S de la tecnología.md",
+    "CENEVAL.md",
+    "Bool.md",
+    "API.md",
+    "Tecnología/Términos comunes/Limpiar.md",
     "Git.md",
     "Limpiar datos almacenados en cache de git.md",
     "wwwroot.md",
     "Canvas.md",
-    "Design Thinking.md",
     "Triángulo de Modelo de Negocio.md",
     "Pasted image 20240219180948.png",
     "Identificación de patrones.md",
@@ -155,28 +186,15 @@
     "Emprendimiento tecnológico.md",
     "SCIMAGO.md",
     "Análisis y modelación de sistemas.md",
-    "CENEVAL.md",
-    "Ciclo de vida de los productos.md",
-    "Etapas de desarrollo de nuevos productos.md",
     "Pasted image 20240216193912.png",
-    "Diseño de productos.md",
-    "Curvas S de la tecnología.md",
     "Pasted image 20240216173007.png",
-    "Insight Generation.md",
-    "Journey Map.md",
-    "Taller de Biblioteca Emprendimiento Tecnológico.md",
     "Pasted image 20240213160801.png",
-    "Búsqueda con Operadores Booleanos.md",
     "GUÍA EGEL ISOFT.pdf",
-    "Bool.md",
-    "Valor.md",
-    "Technology push.md",
     "Pasted image 20240212113309.png",
     "Pasted image 20240212112400.png",
     "Pasted image 20240212112348.png",
     "Pasted image 20240212112204.png",
     "Pasted image 20240212111920.png",
-    "Pasted image 20231011113021.png",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
     "Tecnología/Frameworks, librerías y otras plataformas en específico",
