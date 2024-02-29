@@ -79,7 +79,7 @@ Se utiliza el formato:
 [Nombre de la base de datos]Context.cs
 ```
 
-Requiere crear una clase para el contexto. Esta clase incluye los atributos [DbSet], los cuales representan tablas en la [[Base de datos]]. 
+Requiere crear una clase para el contexto. Esta clase incluye los atributos [[DbSet]], los cuales representan tablas en la [[Base de datos]]. 
 
 ## Ejemplo de contexto
 ![[Pasted image 20231003162742.png]]

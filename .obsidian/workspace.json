@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fbccf5b43bf7cd16",
+        "id": "681794b9a9c47d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe767fdcf92dbda",
+            "id": "8193abcb880f13f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codigos de estado.md",
+                "file": "RootMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45466fb736ca0c3c",
+            "id": "b5467b4c03081296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RootMe.md",
+                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Releva",
+                "query": "context",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RootMe.md",
+                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RootMe.md",
+                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RootMe.md"
+                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,11 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45466fb736ca0c3c",
+  "active": "b5467b4c03081296",
   "lastOpenFiles": [
-    "Pasted image 20240228035840.png",
-    "GTFOBins.md",
+    "Tecnología/Términos comunes/Mapping.md",
+    "Tecnología/Términos comunes/ORM.md",
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+    "DbSet.md",
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/Dapper.md",
+    "Tecnología/Términos comunes/Creación de proyectos.md",
+    "Roadside Picnic.md",
     "RootMe.md",
+    "Relevant.md",
+    "SCIMAGO.md",
+    "Paradigmas de la programación.md",
+    "index.html",
+    "dirb.md",
+    "cmd.png.php5",
+    "Pasted image 20240228035840.png",
     "Pasted image 20240228035013.png",
     "Pasted image 20240228034544.png",
     "Pasted image 20240228034318.png",
@@ -172,34 +183,22 @@
     "Pasted image 20240228033959.png",
     "Pasted image 20240228033347.png",
     "Pasted image 20240228033343.png",
-    "index.html",
     "Pasted image 20240228033036.png",
-    "cmd.png.php5",
-    "Codigos de estado.md",
     "Pasted image 20240228031052.png",
-    "GoBuster.md",
-    "Pasted image 20240228030805.png",
-    "NMap.md",
-    "Tecnología/Términos comunes/CLI.md",
-    "Relevant.md",
-    "HTTP.md",
     "OpenVPN.md",
-    "dirb.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
-    "PostgreSQL.md",
+    "NMap.md",
+    "HTTP.md",
+    "GoBuster.md",
+    "GTFOBins.md",
+    "Codigos de estado.md",
     "Programación orientada a objetos.md",
-    "Paradigmas de la programación.md",
     "Paradigma.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+    "PostgreSQL.md",
     "Post.md",
-    "Tecnología/Términos comunes/Backend.md",
-    "Base de datos.md",
-    "Tecnología/Términos comunes/Web.md",
-    "AJAX.md",
-    "Design Thinking.md",
-    "Curvas S de la tecnología.md",
-    "CENEVAL.md",
-    "Bool.md",
+    "README.md",
+    "Tecnología/Términos comunes/Limpiar.md",
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
+    "Git.md",
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
