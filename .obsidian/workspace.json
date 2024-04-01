@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8193abcb880f13f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RootMe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5467b4c03081296",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8134007352cc0a18",
+  "active": "7cdcf380ccb899b6",
   "lastOpenFiles": [
+    "Tecnología/Writeups/RootMe.md",
+    "Tecnología/Writeups/Relevant.md",
+    "Tecnología/Writeups/Attacktive Directory.md",
+    "Tecnología/Writeups",
     "Untitled",
     "Publicar proyecto de ASP NET  a Azure.md",
     "Untitled.md",
@@ -221,14 +213,10 @@
     "GoBuster.md",
     "GTFOBins.md",
     "Codigos de estado.md",
-    "Programación orientada a objetos.md",
-    "Paradigma.md",
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
     "Tecnología/Frameworks, librerías y otras plataformas en específico",
-    "Tecnología/Términos comunes",
-    "Tecnología/Imágenes y otros adjuntos",
-    "Tecnología"
+    "Tecnología/Términos comunes"
   ]
 }
