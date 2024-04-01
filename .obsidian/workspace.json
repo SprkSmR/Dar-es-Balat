@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+                "file": "Roadside Picnic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "041b0286ad816766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publicar proyecto de ASP NET  a Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cdcf380ccb899b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context",
+                "query": "IIS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,16 +182,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5467b4c03081296",
+  "active": "8134007352cc0a18",
   "lastOpenFiles": [
+    "Untitled",
+    "Publicar proyecto de ASP NET  a Azure.md",
+    "Untitled.md",
+    "RootMe.md",
+    "Azure App Service.md",
     "Tecnología/Términos comunes/Mapping.md",
-    "Tecnología/Términos comunes/ORM.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
+    "Tecnología/Términos comunes/ORM.md",
+    "Recomendaciones de libros/Dune Messiah.md",
+    "Recomendaciones de libros/Dune.md",
+    "Recomendaciones de libros",
+    "Roadside Picnic.md",
     "DbSet.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/Dapper.md",
     "Tecnología/Términos comunes/Creación de proyectos.md",
-    "Roadside Picnic.md",
-    "RootMe.md",
     "Relevant.md",
     "SCIMAGO.md",
     "Paradigmas de la programación.md",
@@ -193,12 +223,6 @@
     "Codigos de estado.md",
     "Programación orientada a objetos.md",
     "Paradigma.md",
-    "PostgreSQL.md",
-    "Post.md",
-    "README.md",
-    "Tecnología/Términos comunes/Limpiar.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
-    "Git.md",
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
