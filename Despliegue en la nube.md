@@ -60,5 +60,5 @@ Se almacena en [[Azure Storage]], de forma duradera como un almacenamiento compa
 
 
 ## Alto consumo de [[CPU]] o [[Memoria]]
-Un alto consumo de ambos puede significar que la [[maquina virtual]] está teniendo problemas procesando el despliegue. Como solución, se plantea escalar hacia arriba la cuenta de la estancia para llevar a cabo el despliegue. Una vez concluido, se regresa la cuenta de la estancia a su valor anterior.
+Un alto consumo de ambos puede significar que la [[Maquina virtual]] está teniendo problemas procesando el despliegue. Como solución, se plantea escalar hacia arriba la cuenta de la estancia para llevar a cabo el despliegue. Una vez concluido, se regresa la cuenta de la estancia a su valor anterior.
 

@@ -4,47 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "681794b9a9c47d8b",
+        "id": "77eeaaa5ff7df4d8",
         "type": "tabs",
         "children": [
           {
-            "id": "b5467b4c03081296",
+            "id": "deb9838788e9d6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadside Picnic.md",
+                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Metodología de la investigación.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "041b0286ad816766",
+            "id": "dedc9f029c9f3f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publicar proyecto de ASP NET  a Azure.md",
+                "file": "Unidad Léxica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cdcf380ccb899b6",
+            "id": "9d0431c3d75ddfd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Unidad Léxica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b968c6d8cf7242a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compiladores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "744baa232b9004f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cerradura de Kleene.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc71c47927a54123",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "1232bcba6797b743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procesadores de lenguaje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf4209d3e76d946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inteligencia Artifical.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IIS",
+                "query": "COmpilador",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cerradura de Kleene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cerradura de Kleene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Cerradura de Kleene.md"
               }
             }
           }
@@ -170,32 +228,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cdcf380ccb899b6",
+  "active": "bc71c47927a54123",
   "lastOpenFiles": [
-    "Tecnología/Writeups/RootMe.md",
-    "Tecnología/Writeups/Relevant.md",
-    "Tecnología/Writeups/Attacktive Directory.md",
-    "Tecnología/Writeups",
-    "Untitled",
-    "Publicar proyecto de ASP NET  a Azure.md",
-    "Untitled.md",
-    "RootMe.md",
-    "Azure App Service.md",
-    "Tecnología/Términos comunes/Mapping.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/Entity Framework.md",
-    "Tecnología/Términos comunes/ORM.md",
-    "Recomendaciones de libros/Dune Messiah.md",
+    "Compiladores.md",
+    "Cerradura de Kleene.md",
+    "Interprete.md",
+    "Procesadores de lenguaje.md",
+    "Inteligencia Artifical.md",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Metodología de la investigación.md",
+    "Métodos cuantitativos.md",
+    "Árbol de sintaxis abstracto.md",
+    "Unidad Léxica.md",
+    "Token.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Despliegue en la nube.md",
+    "Maquina virtual.md",
+    "Semántico.md",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
+    "Machine Learning.md",
+    "Aprendizaje estadístico.md",
+    "Análisis predictivo.md",
+    "Inteligente.md",
+    "Pasted image 20240401154818.png",
+    "Untitled 1.md",
+    "AJAX.md",
     "Recomendaciones de libros/Dune.md",
+    "Scikit-learn.md",
+    "Weka.md",
+    "Juptyer Notebook.md",
+    "Tecnología/Writeups",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
     "Recomendaciones de libros",
-    "Roadside Picnic.md",
-    "DbSet.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/Dapper.md",
-    "Tecnología/Términos comunes/Creación de proyectos.md",
-    "Relevant.md",
-    "SCIMAGO.md",
-    "Paradigmas de la programación.md",
     "index.html",
-    "dirb.md",
     "cmd.png.php5",
     "Pasted image 20240228035840.png",
     "Pasted image 20240228035013.png",
@@ -206,13 +271,6 @@
     "Pasted image 20240228033347.png",
     "Pasted image 20240228033343.png",
     "Pasted image 20240228033036.png",
-    "Pasted image 20240228031052.png",
-    "OpenVPN.md",
-    "NMap.md",
-    "HTTP.md",
-    "GoBuster.md",
-    "GTFOBins.md",
-    "Codigos de estado.md",
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",

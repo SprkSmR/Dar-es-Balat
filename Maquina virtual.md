@@ -1,0 +1,4 @@
+La primera máquina virtual fue creada para [[Lisp]]
+
+  #chatgpt
+Una máquina virtual es un software que simula una computadora dentro de otra computadora, permitiendo ejecutar múltiples sistemas operativos y aplicaciones en un entorno aislado y controlado. Esto significa que se pueden crear y utilizar diferentes configuraciones de hardware y software en una misma máquina física, lo que resulta útil para propósitos de desarrollo, pruebas, educación, entre otros. Las máquinas virtuales se utilizan ampliamente en la virtualización de servidores, la consolidación de infraestructuras, la creación de entornos de pruebas, y la ejecución de aplicaciones en diferentes sistemas operativos sin necesidad de tener múltiples equipos físicos.
