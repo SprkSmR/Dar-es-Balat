@@ -1,0 +1,1 @@
+Se encarga de la asignación de direcciones [[IP]] por continente. [[IP]]s públicas, para salir a internet.

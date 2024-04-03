@@ -1,0 +1,1 @@
+Es un tipo de red donde diferentes tipos de datos pueden ser transmitidos a través de ella. Audio, video, etc. Todo a través del mismo medio de transmisión. Es lo normal en la actualidad, pero antes no era así ([[DSL]]).

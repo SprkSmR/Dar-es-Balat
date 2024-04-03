@@ -1,0 +1,1 @@
+Reglas establecidas para que dos o más partes puedan coincidir. Es la interfaz que permite la comunicación. Un lenguaje común. Por ejemplo, los idiomas son protocolos.

@@ -1,0 +1,1 @@
+Hace el pareo entre direcciones IP y dominios. [[DNS]].

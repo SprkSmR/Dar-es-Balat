@@ -1,0 +1,1 @@
+El despliegue de la información. Codificación de texto, formatos de archivo. Representación de los datos

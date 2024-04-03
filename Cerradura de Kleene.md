@@ -1,5 +1,5 @@
 #chatgpt
-La cerradura de Kleene es un concepto fundamental en la teoría de autómatas y en la teoría de lenguajes formales. Recibe su nombre del matemático estadounidense Stephen Cole Kleene. Esta cerradura es una operación sobre lenguajes formales que produce otro lenguaje formal. Se denota comúnmente como "*" y se aplica a un lenguaje, como por ejemplo L*. La cerradura de Kleene tiene las siguientes propiedades:
+La cerradura de Kleene es un concepto fundamental en la teoría de autómatas y en la teoría de lenguajes formales. Recibe su nombre del matemático estadounidense Stephen Cole Kleene. Esta cerradura es una operación sobre lenguajes formales que produce otro lenguaje formal. Se denota comúnmente como "\*" y se aplica a un lenguaje, como por ejemplo L*. La cerradura de Kleene tiene las siguientes propiedades:
 
 1. **Cerradura de Kleene de un lenguaje**: La cerradura de Kleene de un lenguaje L, denotada como L*, es el conjunto de todas las posibles concatenaciones de cero o más cadenas de L. Es decir, incluye todas las cadenas que se pueden formar concatenando cualquier cantidad finita de cadenas de L, incluida la cadena vacía (ε).
 

@@ -1,0 +1,1 @@
+Protocolos de aplicación, como [[Correo electrónico]], [[HTTP]], [[FTP]]. Toda pieza de software que el usuario utiliza directamente.

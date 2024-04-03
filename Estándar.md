@@ -1,0 +1,1 @@
+Acuerdo sobre qué [[Protocolo]]s utilizar. Existen muchos [[Protocolo]]s y cualquiera podría usar el que quisiera, pero para permitir la comunicación y que exista un acuerdo, se establecen estándares. Es como si los idiomas fueran protocolos, cualquiera puede hablar el que quiera, pero para poder colaborar para una tarea, es necesario llegar a un idioma común, como inglés. 

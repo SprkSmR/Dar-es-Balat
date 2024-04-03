@@ -1,0 +1,1 @@
+Todo el hardware, los [[Router]]s, los racks.

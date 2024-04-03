@@ -68,12 +68,218 @@
             }
           },
           {
-            "id": "bc71c47927a54123",
+            "id": "34b3ceac1afef7df",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c184961f1976ef40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c3b1c7c1d475b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pipe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f283466782f0f1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paralelismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc758fbe0e59de32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enlace de datos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc6ae804a746801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc663b7d844bc6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f79f4b313f9945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "224f0433041cab04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a5c88c84cb9430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Punto de demarcación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c779855cc755233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes conmutadas sin bordes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfeb9535adb2c9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d7ec889a650248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "009efec3f9bcc97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cf3d074784e876e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dc1a9b0c600561b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734be7c51bb28abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54c1e6fce1030b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hilo.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -102,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -131,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COmpilador",
+                "query": "Router",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cerradura de Kleene.md",
+                "file": "Modelo OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cerradura de Kleene.md",
+                "file": "Modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cerradura de Kleene.md"
+                "file": "Modelo OSI.md"
               }
             }
           }
@@ -228,35 +434,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc71c47927a54123",
+  "active": "f8d7ec889a650248",
   "lastOpenFiles": [
-    "Compiladores.md",
-    "Cerradura de Kleene.md",
-    "Interprete.md",
-    "Procesadores de lenguaje.md",
-    "Inteligencia Artifical.md",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Metodología de la investigación.md",
-    "Métodos cuantitativos.md",
-    "Árbol de sintaxis abstracto.md",
-    "Unidad Léxica.md",
-    "Token.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "Despliegue en la nube.md",
-    "Maquina virtual.md",
-    "Semántico.md",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
-    "Machine Learning.md",
-    "Aprendizaje estadístico.md",
-    "Análisis predictivo.md",
-    "Inteligente.md",
+    "Aplicación.md",
+    "Modelo OSI.md",
+    "Red.md",
+    "OSPF.md",
+    "WAN.md",
+    "Redes conmutadas sin bordes.md",
+    "Router.md",
+    "Conmutación.md",
+    "Escalar redes.md",
+    "Redes convergentes.md",
+    "Segmentación de redes.md",
+    "Untitled 5.md",
+    "Punto de demarcación.md",
+    "MAC.md",
+    "Enlace de datos.md",
+    "IP.md",
+    "Switch.md",
+    "Subnet.md",
+    "IANA.md",
+    "ICAN.md",
+    "Correo electrónico.md",
+    "Presentación.md",
+    "Sesión.md",
+    "Transporte.md",
+    "UDP.md",
+    "TCP.md",
+    "CSMA",
     "Pasted image 20240401154818.png",
-    "Untitled 1.md",
-    "AJAX.md",
-    "Recomendaciones de libros/Dune.md",
-    "Scikit-learn.md",
-    "Weka.md",
-    "Juptyer Notebook.md",
     "Tecnología/Writeups",
     "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
     "Recomendaciones de libros",
@@ -274,7 +481,6 @@
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico",
-    "Tecnología/Términos comunes"
+    "Tecnología/Frameworks, librerías y otras plataformas en específico"
   ]
 }

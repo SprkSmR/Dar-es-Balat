@@ -1,0 +1,4 @@
+La tecnología (del griego τέχνη téchnē, ‘arte’, ‘oficio’ y -λογία -loguía, ‘tratado’, ‘estudio’​) es la suma de técnicas, habilidades, métodos y procesos utilizados en la producción de bienes o servicios o en el logro de objetivos, como la investigación científica. La tecnología puede ser el conocimiento de técnicas, procesos y similares, o puede integrarse en máquinas para permitir su funcionamiento sin un conocimiento detallado de su funcionamiento. Los sistemas (por ejemplo, máquinas) que aplican tecnología tomando una entrada, cambiándola de acuerdo con el uso del sistema y luego produciendo un resultado se denominan sistemas tecnológicos.
+
+
+No son solo los dispositivos, también son las técnicas, procesos, métodos, habilidades, etc.

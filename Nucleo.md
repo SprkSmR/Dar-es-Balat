@@ -1,0 +1,1 @@
+Un núcleo tiene muchos [[Hilo]]s. 

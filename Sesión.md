@@ -1,0 +1,1 @@
+Conexión establecida entre usuario y aplicación. La instancia de la aplicación con la que se comunica el usuario.

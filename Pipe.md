@@ -1,0 +1,1 @@
+Pieza de [[Software]] que permite que el resultado de un proceso sea la entrada de otro.

@@ -1,0 +1,1 @@
+El punto de demarcación es un **límite entre las redes del proveedor de servicios y del cliente**. Al solucionar problemas de red, los técnicos suelen comenzar en el punto de demarcación para determinar si el problema radica en la red interna del proveedor de servicios o del cliente.
