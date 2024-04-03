@@ -1,0 +1,2 @@
+Arquitectura dedicada para [[Paralelismo]]
+

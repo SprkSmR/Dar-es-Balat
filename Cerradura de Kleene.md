@@ -11,4 +11,4 @@ La cerradura de Kleene es un concepto fundamental en la teoría de autómatas y 
 
 5. **Propiedad de invarianza bajo unión**: La cerradura de Kleene es invariante bajo unión, lo que significa que si L1 y L2 son lenguajes, entonces (L1 ∪ L2)* = L1* ∪ L2*.
 
-La cerradura de Kleene es fundamental en la teoría de autómatas y en la especificación de lenguajes regulares. Se utiliza ampliamente en la construcción y manipulación de expresiones regulares y en la descripción de gramáticas regulares en contextos como la programación de compiladores, el análisis de lenguajes naturales y la manipulación de texto en general.
+La cerradura de Kleene es fundamental en la teoría de autómatas y en la especificación de lenguajes regulares. Se utiliza ampliamente en la construcción y manipulación de [[Expresiones Regulares]] y en la descripción de gramáticas regulares en contextos como la programación de compiladores, el análisis de lenguajes naturales y la manipulación de texto en general.

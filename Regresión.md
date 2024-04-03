@@ -1,0 +1,1 @@
+En un mapa generado como una gráfica de puntos, permite predecir un punto no visto aún. 

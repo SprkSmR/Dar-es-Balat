@@ -1,7 +1,7 @@
 Es la combinación de hardware y software en una computadora. 
 
 # Software del sistema
-El software más importante es el software del sistema, el cual incluye [[sistemas operativos]].  
+El software más importante es el software del sistema, el cual incluye [[Sistemas Operativos]].  
 
 Es la colección de programas que te permiten usar la computadora. Se integra de forma cercana con el hardware. Es una [[interfaz]] entre el usuario y el hardware de la computadora. 
 
@@ -23,7 +23,7 @@ Mainframes realmente potentes que son utilizados para labores computacionales in
 Operan a velocidades de 1 cuatrillón de cálculos por segundo. 
 
 ## Mainframes
-Utilizados por empresas para aplicaciones específicas, como procesamiento de datos, transacciones y otras gestiones. Son más especializados que una computadora personal. Están diseñados para labores en concreto, así que tienen [[Arquitectura computacional]] diferente y [[sistemas operativos]] especializados.
+Utilizados por empresas para aplicaciones específicas, como procesamiento de datos, transacciones y otras gestiones. Son más especializados que una computadora personal. Están diseñados para labores en concreto, así que tienen [[Arquitectura computacional]] diferente y [[Sistemas Operativos]] especializados.
 
 ## Computadoras personales
 Computadoras de propósito general y amigables con el público. 

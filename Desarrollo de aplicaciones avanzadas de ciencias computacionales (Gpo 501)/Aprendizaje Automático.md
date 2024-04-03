@@ -20,10 +20,8 @@ Existen intersecciones entre este campo de la [[Inteligencia Artifical]] y otros
 
 # Tipos de aprendizaje
 
-## Supervisado
+## [[Aprendizaje supervisado]]
 
+## [[Aprendizaje no supervisado]]
 
-## No supervisado
-
-
-## Por refuerzo
+## [[Aprendizaje por refuerzo]]

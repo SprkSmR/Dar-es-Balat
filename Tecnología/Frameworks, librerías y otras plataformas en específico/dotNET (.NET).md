@@ -86,7 +86,7 @@ Archivos temporales generados en la compilación. El [[Compilador]] traduce esto
 
 Archivos específicos, incluye la lógica de la aplicación en el archivo **.dll**. Significa que es un archivo resultante de la compilación de un lenguaje de alto nivel. 
 
-El archivo **.exe** es exclusivo para Windows y consiste en el programa ejecutable. En otros [[sistemas operativos]] generará otras extensiones de archivos.
+El archivo **.exe** es exclusivo para Windows y consiste en el programa ejecutable. En otros [[Sistemas Operativos]] generará otras extensiones de archivos.
 
 #### Archivo global.json
 Es un archivo de configuración global del proyecto.

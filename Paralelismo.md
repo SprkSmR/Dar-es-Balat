@@ -21,4 +21,4 @@ Explota el paralelismo aplicando una sola instrucción a una colección de datos
 Explota el [[Paralelismo]] de datos o tareas en un fuerte modelo de [[Hardware]] acoplado que permite la interacción entre tareas en paralelo. 
 
 ## Paralelismo a nivel de peticiones
-Explota el [[Paralelismo]] a través de tareas específicas desacopladas especificadas por el programador o los [[sistemas operativos]]
+Explota el [[Paralelismo]] a través de tareas específicas desacopladas especificadas por el programador o los [[Sistemas Operativos]]
