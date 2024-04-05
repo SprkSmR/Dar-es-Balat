@@ -1,0 +1,1 @@
+Es la observación que más se repite en un análisis estadístico

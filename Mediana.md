@@ -1,0 +1,1 @@
+Se obtiene al ordenar las observaciones de menor a mayor tomando en cuenta repetidos y el valor que se encuentre en la mitad de la lista es la mediana.

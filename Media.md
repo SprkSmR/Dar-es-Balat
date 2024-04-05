@@ -1,0 +1,1 @@
+La media muestral de un conjunto de observaciones está dada por la suma de observaciones entre la cantidad de observaciones.

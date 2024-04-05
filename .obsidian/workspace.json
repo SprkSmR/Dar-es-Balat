@@ -253,7 +253,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenMP.md",
+                "file": "Subnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59b7806f21e4d614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tamaño de bloque.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5414416dc1a4a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RFC1918.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37183c81fe685efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clock Rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210974f4bc7a61fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11e5406b415469d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes direccionadas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a28508c4240931ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distribuciones de frecuencias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80946976293188b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conteo.md",
                 "mode": "source",
                 "source": false
               }
@@ -356,7 +440,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -385,7 +469,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Paralelismo",
+                "query": "Continuo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -402,8 +486,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -423,7 +506,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenMP.md",
+                "file": "Conteo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -440,7 +523,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenMP.md",
+                "file": "Conteo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -463,7 +546,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenMP.md"
+                "file": "Conteo.md"
               }
             }
           }
@@ -483,50 +566,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f830c0e133f4b83",
+  "active": "80946976293188b2",
   "lastOpenFiles": [
-    "Sistemas Operativos.md",
-    "OpenMP.md",
-    "Tecnología/Términos comunes/Arquitectura computacional.md",
-    "Pasted image 20240403151356.png",
-    "Paralelismo.md",
-    "GPU.md",
-    "Ply.md",
-    "Python.md",
-    "Expresiones Regulares.md",
-    "Cerradura de Kleene.md",
-    "Untitled 6.md",
-    "Características.md",
-    "Pasted image 20240403101837.png",
-    "Pasted image 20240403101835.png",
-    "Aprendizaje supervisado.md",
-    "Instancia.md",
-    "Aprendizaje por refuerzo.md",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
-    "Regresión.md",
-    "Aprendizaje no supervisado.md",
-    "K-means.md",
-    "Machine Learning.md",
-    "Clasificación.md",
-    "Inteligencia Artifical.md",
-    "Modelo OSI.md",
-    "Aplicación.md",
-    "Red.md",
-    "OSPF.md",
-    "WAN.md",
+    "Permutación.md",
+    "Conteo.md",
+    "Factorial.md",
+    "OR.md",
+    "Bool.md",
+    "AND.md",
+    "Métodos cuantitativos.md",
+    "Tipos de variables.md",
+    "Datos.md",
+    "Probabilidad.md",
+    "Medidas Estadísticas.md",
+    "Varianza.md",
+    "Moda.md",
+    "Estadística.md",
+    "Desviación estándar.md",
+    "Cuartiles.md",
+    "Mediana.md",
+    "Media.md",
+    "Distribuciones de frecuencias.md",
+    "Enlace de datos.md",
+    "Untitled 10.md",
+    "A priori.md",
+    "A posteriori.md",
+    "Muestra.md",
+    "Población.md",
+    "K-NN.md",
+    "Pasted image 20240404154954.png",
+    "Pasted image 20240404154938.png",
+    "Pasted image 20240404154856.png",
+    "Pasted image 20240404154753.png",
+    "Pasted image 20240404154727.png",
+    "Pasted image 20240404154620.png",
+    "Pasted image 20240404153153.png",
+    "Pasted image 20240404151949.png",
+    "Pasted image 20240404151740.png",
+    "Pasted image 20240404133226.png",
     "CSMA",
-    "Pasted image 20240401154818.png",
     "Tecnología/Writeups",
     "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
     "Recomendaciones de libros",
     "index.html",
     "cmd.png.php5",
-    "Pasted image 20240228035840.png",
-    "Pasted image 20240228035013.png",
-    "Pasted image 20240228034544.png",
-    "Pasted image 20240228034318.png",
-    "Pasted image 20240228034313.png",
-    "Pasted image 20240228033959.png",
     "GUÍA EGEL ISOFT.pdf",
     "Tecnología/Libros",
     "Tecnología/Ideas mías",

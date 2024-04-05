@@ -1,0 +1,1 @@
+Conectar entre [[Router]]s. TIene un [[Clock Rate]] que debe definirse.

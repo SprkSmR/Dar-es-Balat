@@ -5,3 +5,5 @@ Las organizaciones requieren escalar y soportar:
 - Control administrativo centralizado
 
 [[Redes conmutadas sin bordes]]
+
+[[Redes direccionadas]]

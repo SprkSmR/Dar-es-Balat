@@ -1,4 +1,5 @@
 Dentro de la [[Inteligencia Artifical]]
+![[Pasted image 20240404133226.png]]
 
 # Características
 - Extracción de conocimiento de datos
@@ -13,7 +14,7 @@ Necesita datos. Recibe como entrada esos datos recopilados y regresa como salida
 
 Es muy importante destacar la importancia de los datos. Detectar los patrones. 
 
-Esto es básicamente [[Estadistica]]. Es una aplicación de [[Estadistica]]. 
+Esto es básicamente [[Estadística]]. Es una aplicación de [[Estadística]]. 
 
 Existen intersecciones entre este campo de la [[Inteligencia Artifical]] y otros, como [[Swarm Intelligence]].  
 

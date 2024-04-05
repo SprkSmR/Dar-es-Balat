@@ -1,3 +1,3 @@
 Utiliza direcciones [[IP]] 
 
-Hace [[Conmutación]]. 
+Hace [[Conmutación]] y [[Enrutamiento]] . 

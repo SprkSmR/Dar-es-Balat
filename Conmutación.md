@@ -1,1 +1,1 @@
-Tarea de guiar un paquete hacia su destino. Indicándole todas las redes intermedias que debe atravesar. 
+Tarea de gestionar dentro de la red que administra el [[Router]]. Interno, para con los hosts de la red. Para las peticiones entrantes hacia hosts dentro de su red. Conmuta las peticiones hacia los hosts de la red.

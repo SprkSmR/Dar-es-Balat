@@ -10,7 +10,7 @@ Un organismo o ente [[Inteligente]] es capaz de recordar sucesos de su entorno, 
 
 Un sistema inteligente _aprende_ durante su existencia como actuar para alcanzar sus objetivos.
 
-Utiliza elementos de [[Estadistica]]
+Utiliza elementos de [[Estadística]]
 
 # Clasificación
 

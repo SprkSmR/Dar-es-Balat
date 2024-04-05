@@ -1,0 +1,1 @@
+Es el total de la población que se va a analizar en un análisis estadístico. El universo

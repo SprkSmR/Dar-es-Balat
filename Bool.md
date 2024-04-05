@@ -1,7 +1,7 @@
-# AND
+# [[AND]]
 
-# OR
+# [[OR]]
 
-# NOT
+# [[NOT]]
 
-# XOR
+# [[XOR]]

@@ -1,0 +1,1 @@
+Raíz cuadrada de la [[Varianza]] 

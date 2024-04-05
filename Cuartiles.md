@@ -1,0 +1,1 @@
+Segmentar los datos en 4 partes iguales después de haber sido ordenados.
