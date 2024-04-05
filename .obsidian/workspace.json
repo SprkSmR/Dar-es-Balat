@@ -4,443 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "77eeaaa5ff7df4d8",
+        "id": "2340373bbe28915b",
         "type": "tabs",
         "children": [
           {
-            "id": "deb9838788e9d6f1",
+            "id": "ec92df86e8b14b05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Metodología de la investigación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dedc9f029c9f3f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad Léxica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d0431c3d75ddfd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad Léxica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b968c6d8cf7242a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiladores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "744baa232b9004f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cerradura de Kleene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34b3ceac1afef7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c184961f1976ef40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c3b1c7c1d475b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pipe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f283466782f0f1c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paralelismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc758fbe0e59de32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enlace de datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc6ae804a746801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc663b7d844bc6ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelo OSI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f79f4b313f9945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subnet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "224f0433041cab04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a5c88c84cb9430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Punto de demarcación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c779855cc755233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes conmutadas sin bordes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfeb9535adb2c9ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8d7ec889a650248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelo OSI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b9f82e6ee9daf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Características.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d59757a0649c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expresiones Regulares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f830c0e133f4b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subnet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59b7806f21e4d614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tamaño de bloque.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5414416dc1a4a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RFC1918.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37183c81fe685efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clock Rate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "210974f4bc7a61fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b11e5406b415469d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes direccionadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a28508c4240931ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distribuciones de frecuencias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80946976293188b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conteo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f0db3284528a296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje no supervisado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009efec3f9bcc97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cf3d074784e876e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnología.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dc1a9b0c600561b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "734be7c51bb28abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c1e6fce1030b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1232bcba6797b743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Procesadores de lenguaje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bf4209d3e76d946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inteligencia Artifical.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 27
+        ]
       }
     ],
     "direction": "vertical"
@@ -469,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Continuo",
+                "query": "OpenMP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -486,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -506,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conteo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -523,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conteo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -545,12 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conteo.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -566,34 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80946976293188b2",
+  "active": "ec92df86e8b14b05",
   "lastOpenFiles": [
-    "Permutación.md",
-    "Conteo.md",
-    "Factorial.md",
-    "OR.md",
-    "Bool.md",
-    "AND.md",
-    "Métodos cuantitativos.md",
-    "Tipos de variables.md",
-    "Datos.md",
-    "Probabilidad.md",
-    "Medidas Estadísticas.md",
+    "Tecnología/Términos comunes/CPU.md",
+    "Tecnología/Términos comunes/Registros.md",
+    "Tecnología/Términos comunes/Memoria.md",
+    "Tecnología/Términos comunes/ALU.md",
+    "Proceso.md",
+    "Hilo.md",
+    "Concurrencia.md",
+    "OpenMP.md",
+    "Directiva.md",
+    "Untitled 11.md",
     "Varianza.md",
-    "Moda.md",
-    "Estadística.md",
-    "Desviación estándar.md",
-    "Cuartiles.md",
-    "Mediana.md",
-    "Media.md",
-    "Distribuciones de frecuencias.md",
-    "Enlace de datos.md",
+    "Codigos de estado.md",
+    "Tecnología/Writeups/RootMe.md",
+    "OpenVPN.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
     "Untitled 10.md",
-    "A priori.md",
-    "A posteriori.md",
-    "Muestra.md",
-    "Población.md",
-    "K-NN.md",
+    "Tipos de variables.md",
+    "Tasa de reloj.md",
+    "Tamaño de bloque.md",
+    "STP.md",
+    "Redes direccionadas.md",
+    "RFC1918.md",
+    "Probabilidad.md",
+    "Predicción.md",
     "Pasted image 20240404154954.png",
     "Pasted image 20240404154938.png",
     "Pasted image 20240404154856.png",
@@ -604,10 +177,10 @@
     "Pasted image 20240404151949.png",
     "Pasted image 20240404151740.png",
     "Pasted image 20240404133226.png",
+    "Recomendaciones de libros",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
     "CSMA",
     "Tecnología/Writeups",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
-    "Recomendaciones de libros",
     "index.html",
     "cmd.png.php5",
     "GUÍA EGEL ISOFT.pdf",

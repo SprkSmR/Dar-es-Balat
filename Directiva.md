@@ -1,0 +1,1 @@
+Una directiva en programación es una instrucción específica que guía el comportamiento del [[Compilador]] o del [[Preprocesador]] en un programa. Estas directivas se utilizan principalmente en lenguajes de programación compilados para controlar aspectos como la inclusión de archivos, la configuración de opciones de compilación, la definición de constantes simbólicas, entre otros.
