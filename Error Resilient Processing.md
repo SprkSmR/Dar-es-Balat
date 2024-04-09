@@ -1,0 +1,1 @@
+Tipo de procesamiento en el que los [[Offending character]]s son omitidos y notificados para que no interrumpa el resto del proceso.

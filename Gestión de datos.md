@@ -1,0 +1,1 @@
+![[Bases de datos Conceptos y Arquitectura.pdf]]

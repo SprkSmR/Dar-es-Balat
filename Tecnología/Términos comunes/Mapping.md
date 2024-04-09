@@ -20,7 +20,7 @@ Esto lo vuelve más explícito y es lo recomendado. Por ejemplo:
 ```
 
 ##### Clave foránea
-También se pueden declarar claves foráneas para relaciones entre entidades. Para ello, es necesaria la etiqueta ForeignKey. Esta recibe además un [[string]], el cual debe ser el nombre de la variable que guarda la [[PK]] de la entidad relacionada.
+También se pueden declarar claves foráneas para relaciones entre entidades. Para ello, es necesaria la etiqueta ForeignKey. Esta recibe además un [[String]], el cual debe ser el nombre de la variable que guarda la [[PK]] de la entidad relacionada.
 
 Ejemplo:
 ```

@@ -1,0 +1,1 @@
+Se basa en estados y trancisiones.

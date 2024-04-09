@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2340373bbe28915b",
+        "id": "9e7d42b214868e41",
         "type": "tabs",
         "children": [
           {
-            "id": "ec92df86e8b14b05",
+            "id": "3ee6e4c2ce95ed5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Expresiones Regulares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d657dfe813f7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrencia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OpenMP",
+                "query": "expresion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Expresiones Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Expresiones Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Expresiones Regulares.md"
+              }
             }
           }
         ],
@@ -139,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec92df86e8b14b05",
+  "active": "3ee6e4c2ce95ed5d",
   "lastOpenFiles": [
-    "Tecnología/Términos comunes/CPU.md",
-    "Tecnología/Términos comunes/Registros.md",
-    "Tecnología/Términos comunes/Memoria.md",
-    "Tecnología/Términos comunes/ALU.md",
-    "Proceso.md",
-    "Hilo.md",
+    "Ply.md",
+    "Compiladores.md",
+    "Árbol de sintaxis abstracto.md",
+    "Token.md",
+    "Clock Rate.md",
+    "Router.md",
+    "Enrutamiento.md",
+    "Conmutación.md",
+    "Máquina de estados.md",
+    "Automata.md",
     "Concurrencia.md",
-    "OpenMP.md",
-    "Directiva.md",
-    "Untitled 11.md",
-    "Varianza.md",
-    "Codigos de estado.md",
-    "Tecnología/Writeups/RootMe.md",
-    "OpenVPN.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 10.md",
-    "Tipos de variables.md",
-    "Tasa de reloj.md",
-    "Tamaño de bloque.md",
-    "STP.md",
-    "Redes direccionadas.md",
-    "RFC1918.md",
-    "Probabilidad.md",
-    "Predicción.md",
+    "Conectarse a SQL Server en CMD.md",
+    "Compliance.md",
+    "Unidad Léxica.md",
+    "lexer.l",
+    "String.md",
+    "Tecnología/Términos comunes/Mapping.md",
+    "Untitled.md",
+    "Flex.md",
+    "Lex.md",
+    "Open Source.md",
+    "bison.md",
+    "Árboles de Decisión (ID3).md",
+    "Offending character.md",
+    "Error Resilient Processing.md",
+    "Entropía.md",
+    "Pasted image 20240408164018.png",
+    "Pasted image 20240408163919.png",
+    "Algoritmo de clasificación.md",
+    "UML for analysis v0.1.pdf",
+    "Modelo Entidad Relación.pdf",
+    "Diagramas UML y Modelo 4+1.pdf",
+    "Diagrama de Clases.pdf",
+    "Patrones de Diseño.pdf",
+    "Modelo Relacional.pdf",
+    "IntuitiveInterfaces.pdf",
+    "Bases de datos Conceptos y Arquitectura.pdf",
+    "3.4.pdf",
+    "Pasted image 20240407191730.png",
+    "Pasted image 20240407191553.png",
+    "Pasted image 20240407191543.png",
+    "Pasted image 20240407191529.png",
     "Pasted image 20240404154954.png",
     "Pasted image 20240404154938.png",
     "Pasted image 20240404154856.png",
-    "Pasted image 20240404154753.png",
-    "Pasted image 20240404154727.png",
-    "Pasted image 20240404154620.png",
-    "Pasted image 20240404153153.png",
-    "Pasted image 20240404151949.png",
-    "Pasted image 20240404151740.png",
-    "Pasted image 20240404133226.png",
-    "Recomendaciones de libros",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)",
-    "CSMA",
-    "Tecnología/Writeups",
-    "index.html",
-    "cmd.png.php5",
-    "GUÍA EGEL ISOFT.pdf",
-    "Tecnología/Libros",
-    "Tecnología/Ideas mías",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico"
+    "Pasted image 20240404154753.png"
   ]
 }

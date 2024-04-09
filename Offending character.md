@@ -1,0 +1,1 @@
+Caracteres que generan errores durante la compilación.

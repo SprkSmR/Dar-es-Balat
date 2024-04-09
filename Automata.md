@@ -1,0 +1,1 @@
+En ocasiones es lo mismo que una [[Máquina de estados]], pero puede incluir más cosas como entrada y salida de variables. 
