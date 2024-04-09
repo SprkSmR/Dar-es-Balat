@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bb532791053f43db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "56d657dfe813f7e4",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expresion",
+                "query": "Lenguaje de programación",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,8 +153,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,6 +171,15 @@
   },
   "active": "3ee6e4c2ce95ed5d",
   "lastOpenFiles": [
+    "Concurrencia.md",
+    "C.md",
+    "fgetc.md",
+    "Expresiones Regulares.md",
+    "Malloc.md",
+    "Lenguaje de programación.md",
+    "Tecnología/Términos comunes/Csharp.md",
+    "Tecnología/Términos comunes/C++.md",
+    "Azure App Service.md",
     "Ply.md",
     "Compiladores.md",
     "Árbol de sintaxis abstracto.md",
@@ -171,7 +190,6 @@
     "Conmutación.md",
     "Máquina de estados.md",
     "Automata.md",
-    "Concurrencia.md",
     "Conectarse a SQL Server en CMD.md",
     "Compliance.md",
     "Unidad Léxica.md",
@@ -180,16 +198,8 @@
     "Tecnología/Términos comunes/Mapping.md",
     "Untitled.md",
     "Flex.md",
-    "Lex.md",
-    "Open Source.md",
-    "bison.md",
-    "Árboles de Decisión (ID3).md",
-    "Offending character.md",
-    "Error Resilient Processing.md",
-    "Entropía.md",
     "Pasted image 20240408164018.png",
     "Pasted image 20240408163919.png",
-    "Algoritmo de clasificación.md",
     "UML for analysis v0.1.pdf",
     "Modelo Entidad Relación.pdf",
     "Diagramas UML y Modelo 4+1.pdf",
