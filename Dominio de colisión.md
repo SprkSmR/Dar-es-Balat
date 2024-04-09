@@ -1,0 +1,1 @@
+Cada interfaz de una [[Switch]] presenta un nuevo [[Dominio de colisión]]. Esto es, la oportunidad de que exista una colisión, que choquen [[Tramas]] durante el [[Transporte]].

@@ -1,0 +1,1 @@
+Da como resultado el [[Framecheck]] 0 durante la validación de [[Tramas]]. Es el proceso donde valida que todo el contenido que llega en el [[Transporte]] sea todo lo que se esperaba.

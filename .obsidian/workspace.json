@@ -13,19 +13,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones Regulares.md",
+                "file": "VLAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb532791053f43db",
+            "id": "d4de405399e222e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.md",
+                "file": "VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ecd7d22316de422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aedbfb464ed9432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c32ec3bb0d0f06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checksum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2714af820399fe4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dominio de broadcast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f43b8c2eebb4b5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cableado.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lenguaje de programación",
+                "query": "802.1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,8 +171,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones Regulares.md",
-                "collapseAll": false,
+                "file": "VLAN.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -126,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones Regulares.md",
+                "file": "VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones Regulares.md"
+                "file": "VLAN.md"
               }
             }
           }
@@ -169,35 +231,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ee6e4c2ce95ed5d",
+  "active": "2ecd7d22316de422",
   "lastOpenFiles": [
-    "Concurrencia.md",
-    "C.md",
-    "fgetc.md",
-    "Expresiones Regulares.md",
-    "Malloc.md",
-    "Lenguaje de programación.md",
-    "Tecnología/Términos comunes/Csharp.md",
-    "Tecnología/Términos comunes/C++.md",
-    "Azure App Service.md",
-    "Ply.md",
-    "Compiladores.md",
-    "Árbol de sintaxis abstracto.md",
-    "Token.md",
-    "Clock Rate.md",
-    "Router.md",
-    "Enrutamiento.md",
-    "Conmutación.md",
-    "Máquina de estados.md",
-    "Automata.md",
-    "Conectarse a SQL Server en CMD.md",
-    "Compliance.md",
-    "Unidad Léxica.md",
+    "IEEE 802.1Q.md",
+    "802.1Q.md",
+    "VLAN.md",
+    "1.2 VLAN's.pdf",
+    "Enlace troncal.md",
+    "Red.md",
+    "Subnet.md",
+    "STP.md",
+    "Tecnología/Términos comunes/Código nativo.md",
+    "Tecnología/Términos comunes/CLR.md",
+    "Tecnología/Términos comunes/CIL.md",
+    "Cisco CLI.md",
+    "Ethernet.md",
+    "IEEE802.B.md",
+    "DHCP.md",
+    "Checksum.md",
+    "Algoritmo de redundancia ciclica.md",
+    "Framecheck.md",
+    "Dominio de broadcast.md",
+    "Dominio de colisión.md",
+    "Multidifusión.md",
+    "Difusión.md",
+    "Enlace de datos.md",
+    "Modelo OSI.md",
+    "Transporte.md",
+    "TCP.md",
     "lexer.l",
-    "String.md",
-    "Tecnología/Términos comunes/Mapping.md",
-    "Untitled.md",
-    "Flex.md",
     "Pasted image 20240408164018.png",
     "Pasted image 20240408163919.png",
     "UML for analysis v0.1.pdf",
@@ -208,7 +270,6 @@
     "Modelo Relacional.pdf",
     "IntuitiveInterfaces.pdf",
     "Bases de datos Conceptos y Arquitectura.pdf",
-    "3.4.pdf",
     "Pasted image 20240407191730.png",
     "Pasted image 20240407191553.png",
     "Pasted image 20240407191543.png",

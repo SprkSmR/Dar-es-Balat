@@ -1,0 +1,1 @@
+[[Protocolo]] subordinado al [[IP]] que se encarga de llevar el registro y estadísticas en la [[Red]].
