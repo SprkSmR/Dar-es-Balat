@@ -16,3 +16,7 @@ Entonces, la inundación puede considerarse como una fase inicial de aprendizaje
 # Tecnologías verdes en Switches
 Algunos [[Switch]]es tienen un puerto de alimentación que permite que se conecten entre sí hasta 9 [[Switch]]es, de forma que solo uno de ellos deba estar conectado a la [[Corriente eléctrica]] y alimente al resto. 
 
+# Switch multicapa
+Switch que es capaz de utilizar direcciones [[IP]] como si fuera de capa 3 [[Red]].
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN.md",
+                "file": "Cisco CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VLAN.md",
+                "file": "Codigos de estado.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "802.1",
+                "query": "CLI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VLAN.md",
+                "file": "Cisco CLI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VLAN.md",
+                "file": "Cisco CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VLAN.md"
+                "file": "Cisco CLI.md"
               }
             }
           }
@@ -231,34 +230,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ecd7d22316de422",
+  "active": "3ee6e4c2ce95ed5d",
   "lastOpenFiles": [
+    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
+    "Tecnología/Términos comunes/Common Type System.md",
+    "Cisco CLI.md",
+    "VLAN.md",
+    "Codigos de estado.md",
+    "Concurrencia.md",
+    "Cableado.md",
+    "Dominio de broadcast.md",
+    "Checksum.md",
+    "DHCP.md",
+    "Tecnología/Términos comunes/CLI.md",
+    "STP.md",
+    "Switch.md",
+    "Enlace troncal.md",
     "IEEE 802.1Q.md",
     "802.1Q.md",
-    "VLAN.md",
     "1.2 VLAN's.pdf",
-    "Enlace troncal.md",
     "Red.md",
     "Subnet.md",
-    "STP.md",
     "Tecnología/Términos comunes/Código nativo.md",
     "Tecnología/Términos comunes/CLR.md",
     "Tecnología/Términos comunes/CIL.md",
-    "Cisco CLI.md",
     "Ethernet.md",
     "IEEE802.B.md",
-    "DHCP.md",
-    "Checksum.md",
     "Algoritmo de redundancia ciclica.md",
     "Framecheck.md",
-    "Dominio de broadcast.md",
     "Dominio de colisión.md",
-    "Multidifusión.md",
-    "Difusión.md",
-    "Enlace de datos.md",
-    "Modelo OSI.md",
-    "Transporte.md",
-    "TCP.md",
     "lexer.l",
     "Pasted image 20240408164018.png",
     "Pasted image 20240408163919.png",
