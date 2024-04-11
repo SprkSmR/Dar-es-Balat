@@ -4,100 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e7d42b214868e41",
+        "id": "81f72b0e1e4a062a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee6e4c2ce95ed5d",
+            "id": "9625320674d54c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4de405399e222e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VLAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ecd7d22316de422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codigos de estado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aedbfb464ed9432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DHCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c32ec3bb0d0f06c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Checksum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2714af820399fe4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dominio de broadcast.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f43b8c2eebb4b5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cableado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d657dfe813f7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concurrencia.md",
+                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CLI",
+                "query": "Ceneval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco CLI.md"
+                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -230,11 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ee6e4c2ce95ed5d",
+  "active": "9625320674d54c51",
   "lastOpenFiles": [
+    "Gestión de Proyectos de Software.md",
+    "Ceneval.md",
+    "Desarrollo de Sistemas de Software.md",
+    "Lenguajes de desarrollo de software.md",
+    "Diseño de Sistemas de Software.md",
+    "Diseño de módulos, componentes y de datos de software.md",
+    "Diseño de interfaces.md",
+    "Pasted image 20240409220622.png",
+    "Pasted image 20240409220232.png",
+    "Pasted image 20240409220106.png",
+    "Diseño arquitectónico de software.md",
+    "Análisis de Sistemas de Software.md",
+    "Técnicas y herramientas de documentación de requerimientos.md",
+    "Técnicas y herramientas para la obtención, análisis, priorización y validación de requerimientos.md",
+    "Pasted image 20240409215047.png",
+    "Tipos de requerimientos.md",
+    "Pasted image 20240409214513.png",
+    "Ply.md",
+    "Cisco CLI.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
     "Tecnología/Términos comunes/Common Type System.md",
-    "Cisco CLI.md",
     "VLAN.md",
     "Codigos de estado.md",
     "Concurrencia.md",
@@ -245,20 +180,7 @@
     "Tecnología/Términos comunes/CLI.md",
     "STP.md",
     "Switch.md",
-    "Enlace troncal.md",
-    "IEEE 802.1Q.md",
-    "802.1Q.md",
     "1.2 VLAN's.pdf",
-    "Red.md",
-    "Subnet.md",
-    "Tecnología/Términos comunes/Código nativo.md",
-    "Tecnología/Términos comunes/CLR.md",
-    "Tecnología/Términos comunes/CIL.md",
-    "Ethernet.md",
-    "IEEE802.B.md",
-    "Algoritmo de redundancia ciclica.md",
-    "Framecheck.md",
-    "Dominio de colisión.md",
     "lexer.l",
     "Pasted image 20240408164018.png",
     "Pasted image 20240408163919.png",
@@ -272,11 +194,6 @@
     "Bases de datos Conceptos y Arquitectura.pdf",
     "Pasted image 20240407191730.png",
     "Pasted image 20240407191553.png",
-    "Pasted image 20240407191543.png",
-    "Pasted image 20240407191529.png",
-    "Pasted image 20240404154954.png",
-    "Pasted image 20240404154938.png",
-    "Pasted image 20240404154856.png",
-    "Pasted image 20240404154753.png"
+    "Pasted image 20240407191543.png"
   ]
 }
