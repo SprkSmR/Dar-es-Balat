@@ -13,3 +13,9 @@ Es un conjunto de condiciones organizadas en una estructura jerárquica, de tal 
 - Es un proceso iterativo, que se repite en cada uno de los subnodos obtenidos
 
 # [[Entropía]]
+
+# [[Ganancia de información]]
+
+
+# Anexo
+![[EjercicioArbol 1.xlsx]]

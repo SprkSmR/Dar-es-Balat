@@ -1,0 +1,1 @@
+Patrón, conjunto de actividades o procedimiento para cumplir un objetivo. Implica que no es una ley o fórmula que se aplica siempre, sino que es posible aplicarla, es una opción que podría ser viable pero no siempre.

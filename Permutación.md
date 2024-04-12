@@ -2,4 +2,6 @@ Dado un conjunto de _n_ elementos, se denomina permutación a cada uno de los co
 
 Dicho de otro modo, dada una colección de _n_ objetos distintos, cualquier disposición lineal de estos objetos se denomina permutación de la colección.
 
-Combinación posible.
+Aquí importa el orden de los datos de la combinatoria para definirla como una nueva.
+
+Diferente de [[Combinación]].

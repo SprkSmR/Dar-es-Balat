@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
+                "file": "Entropía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0bcd4e6ab4f1800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d501e301e6b46332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heurística.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ceneval",
+                "query": "SVI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
+                "file": "Cisco CLI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
+                "file": "Cisco CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestión de tiempos, costos, recursos humanos y de riesgo.md"
+                "file": "Cisco CLI.md"
               }
             }
           }
@@ -147,8 +172,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9625320674d54c51",
+  "active": "a0bcd4e6ab4f1800",
   "lastOpenFiles": [
+    "SVI.md",
+    "VLAN.md",
+    "Cisco CLI.md",
+    "Conteo.md",
+    "Permutación.md",
+    "Factorial.md",
+    "Combinación.md",
+    "Pasted image 20240411175356.png",
+    "Arreglos.md",
+    "Pasted image 20240411173925.png",
+    "Árboles de Decisión (ID3).md",
+    "EjercicioArbol 1.xlsx",
+    "E7BC6A00",
+    "~$EjercicioArbol.xlsx",
+    "EjercicioArbol.xlsx",
+    "Ganancia de información.md",
+    "Pasted image 20240411153853.png",
+    "Entropía.md",
+    "Clases.md",
+    "Pasted image 20240411151953.png",
+    "Heurística.md",
+    "Gestión de tiempos, costos, recursos humanos y de riesgo.md",
     "Gestión de Proyectos de Software.md",
     "Ceneval.md",
     "Desarrollo de Sistemas de Software.md",
@@ -166,34 +213,12 @@
     "Pasted image 20240409215047.png",
     "Tipos de requerimientos.md",
     "Pasted image 20240409214513.png",
-    "Ply.md",
-    "Cisco CLI.md",
-    "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
-    "Tecnología/Términos comunes/Common Type System.md",
-    "VLAN.md",
-    "Codigos de estado.md",
-    "Concurrencia.md",
-    "Cableado.md",
-    "Dominio de broadcast.md",
-    "Checksum.md",
-    "DHCP.md",
-    "Tecnología/Términos comunes/CLI.md",
-    "STP.md",
-    "Switch.md",
     "1.2 VLAN's.pdf",
     "lexer.l",
     "Pasted image 20240408164018.png",
-    "Pasted image 20240408163919.png",
     "UML for analysis v0.1.pdf",
     "Modelo Entidad Relación.pdf",
     "Diagramas UML y Modelo 4+1.pdf",
-    "Diagrama de Clases.pdf",
-    "Patrones de Diseño.pdf",
-    "Modelo Relacional.pdf",
-    "IntuitiveInterfaces.pdf",
-    "Bases de datos Conceptos y Arquitectura.pdf",
-    "Pasted image 20240407191730.png",
-    "Pasted image 20240407191553.png",
-    "Pasted image 20240407191543.png"
+    "Diagrama de Clases.pdf"
   ]
 }

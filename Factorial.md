@@ -1,0 +1,1 @@
+Permite conocer cuántas [[Permutación]]'es se pueden generar a partir del tamaño de una colección de datos.

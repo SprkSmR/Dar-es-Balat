@@ -8,7 +8,9 @@ Si un procedimiento se puede descomponer en dos etapas y si existen _m_ resultad
 
 Asociado con [[AND]]
 
-# [[Factorial]]
+# [[Arreglos]]
 
 # [[Permutación]]
+
+# [[Combinación]]
 
