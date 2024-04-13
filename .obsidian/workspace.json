@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "C.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SVI",
+                "query": "gcc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco CLI.md"
+                "file": "C.md"
               }
             }
           }
@@ -174,9 +174,17 @@
   },
   "active": "a0bcd4e6ab4f1800",
   "lastOpenFiles": [
+    "OpenMP.md",
+    "C.md",
+    "OpenMP-4.0-C.pdf",
+    "Malloc.md",
+    "Thread.md",
+    "Hilo.md",
+    "Proceso.md",
+    "Balanceo de cargas.md",
+    "Cisco CLI.md",
     "SVI.md",
     "VLAN.md",
-    "Cisco CLI.md",
     "Conteo.md",
     "Permutación.md",
     "Factorial.md",
@@ -201,24 +209,16 @@
     "Desarrollo de Sistemas de Software.md",
     "Lenguajes de desarrollo de software.md",
     "Diseño de Sistemas de Software.md",
-    "Diseño de módulos, componentes y de datos de software.md",
-    "Diseño de interfaces.md",
     "Pasted image 20240409220622.png",
     "Pasted image 20240409220232.png",
     "Pasted image 20240409220106.png",
-    "Diseño arquitectónico de software.md",
-    "Análisis de Sistemas de Software.md",
-    "Técnicas y herramientas de documentación de requerimientos.md",
-    "Técnicas y herramientas para la obtención, análisis, priorización y validación de requerimientos.md",
     "Pasted image 20240409215047.png",
-    "Tipos de requerimientos.md",
     "Pasted image 20240409214513.png",
     "1.2 VLAN's.pdf",
     "lexer.l",
     "Pasted image 20240408164018.png",
     "UML for analysis v0.1.pdf",
     "Modelo Entidad Relación.pdf",
-    "Diagramas UML y Modelo 4+1.pdf",
-    "Diagrama de Clases.pdf"
+    "Diagramas UML y Modelo 4+1.pdf"
   ]
 }

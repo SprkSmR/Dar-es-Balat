@@ -2,4 +2,4 @@ Programa de ejecución, por lo general en uno de los procesadores virtuales del 
 
 Los procesos son ejecutados en [[Hilo]]s.
 
-Un sistema de hios mantiene generalmente un mínimo de información para permitir a la [[CPU]] que sea compartida por varios hilos. 
+Un sistema de [[Hilo]]s mantiene generalmente un mínimo de información para permitir a la [[CPU]] que sea compartida por varios hilos. 
