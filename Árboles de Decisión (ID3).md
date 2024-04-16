@@ -1,3 +1,5 @@
+Es el tipo de Árbol de Decisión más sencillo y emplea solo atributos categóricos.
+
 - Es de los métodos más utilizados y prácticos para inferencia inductiva
 - Es robusto para el ruido de datos
 - Pueden ser representados por un conjunto de reglas if-then

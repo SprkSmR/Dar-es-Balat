@@ -23,6 +23,8 @@ También se encarga de realizar la supervisión de [[Scope]]s. Para que todo lo 
 
 Se encarga de analizar el [[Árbol de sintaxis abstracto]] generado anteriormente, básicamente. Genera, por tanto, un [[Árbol de sintaxis abstracto]] Anotado
 
+Se realiza por nivel.
+
 ## Fases de síntesis
 ### Generación de código intermedio
 Genera el código intermedio en término de [[Bytecode]]

@@ -1,0 +1,1 @@
+Lexema y [[Gramema]]? 
