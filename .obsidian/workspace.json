@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28b6f8eef5a86aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gramática ambigua.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8bd0dc34647d725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gramática libre de contexto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153834523f6544b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglas de producción y derivaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Underfi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
+                "file": "Reglas de producción y derivaciones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
+                "file": "Reglas de producción y derivaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +187,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md"
+                "file": "Reglas de producción y derivaciones.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,15 +208,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a067e8b42a5465c7",
+  "active": "27c098e65e246ec3",
   "lastOpenFiles": [
+    "Parse.md",
+    "Análisis sintáctico descendente predictivo.md",
+    "Gramática libre de contexto.md",
+    "Gramática ambigua.md",
+    "Reglas de producción y derivaciones.md",
+    "Compiladores.md",
+    "Untitled 2.md",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
     "Pasted image 20240417094818.png",
     "Pasted image 20240417094807.png",
     "Underfitting.md",
     "Subajuste.md",
     "Sobreajuste.md",
     "Overfitting.md",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
     "Sub-entrenamiento.md",
     "Sobre-entrenamiento.md",
     "Análisis predictivo.md",
@@ -186,19 +231,13 @@
     "Expresiones Regulares.md",
     "Tecnología/Términos comunes/Pipelining.md",
     "Paralelismo.md",
-    "Compiladores.md",
     "Compilador.md",
     "C.md",
-    "Parse.md",
-    "Gramática ambigua.md",
-    "Reglas de producción y derivaciones.md",
     "Árbol de sintaxis abstracto.md",
     "Bottom-up.md",
     "Top-down.md",
     "Notación BNF.md",
     "Unidad Léxica.md",
-    "Token.md",
-    "Entropía.md",
     "OpenMP-4.0-C.pdf",
     "Pasted image 20240411175356.png",
     "Pasted image 20240411173925.png",
@@ -212,7 +251,6 @@
     "Pasted image 20240409220232.png",
     "Pasted image 20240409220106.png",
     "Pasted image 20240409215047.png",
-    "Pasted image 20240409214513.png",
     "1.2 VLAN's.pdf",
     "lexer.l",
     "UML for analysis v0.1.pdf",

@@ -16,6 +16,8 @@ Se genera la secuencia de [[Token]]s. Verifica que sean correctos los tokens.
 ### Análisis sintáctico
 Genera un [[Árbol de sintaxis abstracto]], en el cual se verifica que la relación entre [[Token]]s tenga sentido.
 
+[[Gramática libre de contexto]]
+
 ### Análisis semántico
 Realiza la supervisión de tipos, tratando de procurar que concuerde la cadena con el tipo en el token y tenga sentido con el resto del código.
 
