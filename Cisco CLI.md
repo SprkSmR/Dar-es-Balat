@@ -22,6 +22,26 @@ exit
 ````
 switchport mode [access | trunk] 
 ````
+
+````
+no ip domain lookup 
+````
+
+````
+no shutdown 
+````
+
+````
+running-config startup 
+````
+
+
+````
+wr 
+````
+
+Dar de alta una interfaz.
+
 **access** o **troncal**.
 **access:** para un host, para una máquina
 **troncal:** entre [[Switch]]es, actúa como oficial de tránsito
@@ -40,6 +60,7 @@ show vlan [brief | id *vlan-id*]
 ````
 vlan *vlan-id*
 ````
+Al crear una [[VLAN]] con este comando, no requiere un no shutdown
 
 ## Nombrar [[VLAN]]
 ````

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reglas de producción y derivaciones.md",
+                "file": "Expresiones Regulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "expresion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reglas de producción y derivaciones.md",
+                "file": "Expresiones Regulares.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reglas de producción y derivaciones.md",
+                "file": "Expresiones Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reglas de producción y derivaciones.md"
+                "file": "Expresiones Regulares.md"
               }
             }
           }
@@ -208,8 +208,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27c098e65e246ec3",
+  "active": "153834523f6544b3",
   "lastOpenFiles": [
+    "Overfitting.md",
+    "Tecnología/Términos comunes/CLI.md",
+    "Cisco CLI.md",
+    "VLAN.md",
+    "802.1Q.md",
+    "Expresiones Regulares.md",
+    "Cerradura de Kleene.md",
     "Parse.md",
     "Análisis sintáctico descendente predictivo.md",
     "Gramática libre de contexto.md",
@@ -223,21 +230,14 @@
     "Underfitting.md",
     "Subajuste.md",
     "Sobreajuste.md",
-    "Overfitting.md",
     "Sub-entrenamiento.md",
     "Sobre-entrenamiento.md",
     "Análisis predictivo.md",
     "Ply.md",
-    "Expresiones Regulares.md",
     "Tecnología/Términos comunes/Pipelining.md",
     "Paralelismo.md",
     "Compilador.md",
     "C.md",
-    "Árbol de sintaxis abstracto.md",
-    "Bottom-up.md",
-    "Top-down.md",
-    "Notación BNF.md",
-    "Unidad Léxica.md",
     "OpenMP-4.0-C.pdf",
     "Pasted image 20240411175356.png",
     "Pasted image 20240411173925.png",
