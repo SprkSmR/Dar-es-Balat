@@ -73,14 +73,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones Regulares.md",
+                "file": "Aprendizaje supervisado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec9d8ff315b8c993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exactitud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70dc5a797e69e125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matriz de confusión.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a51c4de2c3cbdb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precisión.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb8f7c0f227f4194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fccd1e060f4c872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arreglos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e508ba998558c9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ordenamiento circular.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -109,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expresion",
+                "query": "Arre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones Regulares.md",
+                "file": "Ordenamiento circular.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones Regulares.md",
+                "file": "Ordenamiento circular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones Regulares.md"
+                "file": "Ordenamiento circular.md"
               }
             }
           }
@@ -208,49 +279,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "153834523f6544b3",
+  "active": "e508ba998558c9c5",
   "lastOpenFiles": [
+    "Arreglos.md",
+    "Ordenamiento circular.md",
+    "Recall.md",
+    "Pasted image 20240418161653.png",
+    "Aprendizaje supervisado.md",
+    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
+    "Tecnología/Términos comunes/Arquitectura computacional.md",
+    "Tecnología/Términos comunes/Sistema computacional.md",
+    "Offending character.md",
+    "Error Resilient Processing.md",
+    "Precisión.md",
+    "Pasted image 20240418155630.png",
+    "Exactitud.md",
+    "Pasted image 20240418155330.png",
+    "Matriz de confusión.md",
+    "Accuracy.md",
+    "Pasted image 20240418154544.png",
+    "Pasted image 20240418153841.png",
+    "Pasted image 20240418153815.png",
+    "Pasted image 20240418152456.png",
+    "Exhaustividad.md",
+    "Análisis predictivo.md",
+    "FI-score.md",
+    "Aprendizaje no supervisado.md",
+    "Expresiones Regulares.md",
     "Overfitting.md",
     "Tecnología/Términos comunes/CLI.md",
     "Cisco CLI.md",
     "VLAN.md",
     "802.1Q.md",
-    "Expresiones Regulares.md",
     "Cerradura de Kleene.md",
     "Parse.md",
     "Análisis sintáctico descendente predictivo.md",
-    "Gramática libre de contexto.md",
-    "Gramática ambigua.md",
-    "Reglas de producción y derivaciones.md",
-    "Compiladores.md",
-    "Untitled 2.md",
-    "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
     "Pasted image 20240417094818.png",
     "Pasted image 20240417094807.png",
-    "Underfitting.md",
-    "Subajuste.md",
-    "Sobreajuste.md",
-    "Sub-entrenamiento.md",
-    "Sobre-entrenamiento.md",
-    "Análisis predictivo.md",
-    "Ply.md",
-    "Tecnología/Términos comunes/Pipelining.md",
-    "Paralelismo.md",
-    "Compilador.md",
-    "C.md",
     "OpenMP-4.0-C.pdf",
     "Pasted image 20240411175356.png",
-    "Pasted image 20240411173925.png",
     "EjercicioArbol 1.xlsx",
     "E7BC6A00",
     "~$EjercicioArbol.xlsx",
     "EjercicioArbol.xlsx",
-    "Pasted image 20240411153853.png",
-    "Pasted image 20240411151953.png",
-    "Pasted image 20240409220622.png",
-    "Pasted image 20240409220232.png",
-    "Pasted image 20240409220106.png",
-    "Pasted image 20240409215047.png",
     "1.2 VLAN's.pdf",
     "lexer.l",
     "UML for analysis v0.1.pdf",
