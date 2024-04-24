@@ -32,4 +32,11 @@ E -> E + T | T
    E'->ε  
 
 
-## Analizador sintáctico recursivo descendente
+## [[Analizador sintáctico recursivo descendente]]
+
+
+## [[Analizador sintáctico descendente predictivo]]
+
+### [[Conjunto FIRST]]
+
+### [[Conjunto FOLLOW]]

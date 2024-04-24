@@ -145,14 +145,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordenamiento circular.md",
+                "file": "Características.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74a5e94b3c73abf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exactitud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d729f37bd6ef138f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglas de producción y derivaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8393afed8ea29a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglas de producción y derivaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "503fd46c98ff778d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjunto FIRST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a034f17e6100ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47a53eeba552423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "777ff2a105c07e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BECNEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c77ce4065447b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estado de enlace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "003dad420d5123d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc07e96da27614f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae1082f638116ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FDDI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "355511591906aa90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco CLI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7def94d72b5ecc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matriz de confusión.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -181,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Arre",
+                "query": "Matriz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +354,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordenamiento circular.md",
+                "file": "Matriz de confusión.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ordenamiento circular.md",
+                "file": "Matriz de confusión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,17 +410,17 @@
             }
           },
           {
-            "id": "8d652a6a9ba313a3",
+            "id": "49cb60678b9b0812",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ordenamiento circular.md"
+                "file": "Matriz de confusión.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -279,45 +436,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e508ba998558c9c5",
+  "active": "7def94d72b5ecc35",
   "lastOpenFiles": [
-    "Arreglos.md",
-    "Ordenamiento circular.md",
-    "Recall.md",
-    "Pasted image 20240418161653.png",
-    "Aprendizaje supervisado.md",
+    "Machine Learning.md",
+    "Inteligencia Artifical.md",
     "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
-    "Tecnología/Términos comunes/Arquitectura computacional.md",
-    "Tecnología/Términos comunes/Sistema computacional.md",
-    "Offending character.md",
-    "Error Resilient Processing.md",
-    "Precisión.md",
+    "Aprendizaje estadístico.md",
+    "Default route.md",
+    "Overfitting.md",
+    "Cisco CLI.md",
+    "Router ID.md",
+    "STP.md",
+    "Tamaño de bloque.md",
+    "Máscara de subred.md",
+    "Uninet.md",
+    "FDDI.md",
+    "Token Ring.md",
+    "Distancia administrativa.md",
+    "OSPF.md",
+    "NTP.md",
+    "ICAN.md",
+    "DNS.md",
+    "Estado de enlace.md",
+    "FECNEC.md",
+    "BECNEC.md",
+    "ICMP.md",
+    "RIP.md",
+    "Análisis sintáctico descendente predictivo.md",
+    "Look-Ahead.md",
+    "Pasted image 20240422152635.png",
+    "Pasted image 20240421213705.png",
+    "Pasted image 20240421010613.png",
+    "Pasted image 20240418161653.png",
     "Pasted image 20240418155630.png",
-    "Exactitud.md",
     "Pasted image 20240418155330.png",
-    "Matriz de confusión.md",
-    "Accuracy.md",
     "Pasted image 20240418154544.png",
     "Pasted image 20240418153841.png",
     "Pasted image 20240418153815.png",
     "Pasted image 20240418152456.png",
-    "Exhaustividad.md",
-    "Análisis predictivo.md",
-    "FI-score.md",
-    "Aprendizaje no supervisado.md",
-    "Expresiones Regulares.md",
-    "Overfitting.md",
-    "Tecnología/Términos comunes/CLI.md",
-    "Cisco CLI.md",
-    "VLAN.md",
-    "802.1Q.md",
-    "Cerradura de Kleene.md",
-    "Parse.md",
-    "Análisis sintáctico descendente predictivo.md",
-    "Pasted image 20240417094818.png",
-    "Pasted image 20240417094807.png",
     "OpenMP-4.0-C.pdf",
-    "Pasted image 20240411175356.png",
     "EjercicioArbol 1.xlsx",
     "E7BC6A00",
     "~$EjercicioArbol.xlsx",

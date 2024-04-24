@@ -23,6 +23,12 @@ exit
 switchport mode [access | trunk] 
 ````
 
+Dar de alta una interfaz.
+
+**access** o **troncal**.
+**access:** para un host, para una máquina
+**troncal:** entre [[Switch]]es, actúa como oficial de tránsito
+
 ````
 no ip domain lookup 
 ````
@@ -35,16 +41,10 @@ no shutdown
 running-config startup 
 ````
 
-
 ````
 wr 
 ````
 
-Dar de alta una interfaz.
-
-**access** o **troncal**.
-**access:** para un host, para una máquina
-**troncal:** entre [[Switch]]es, actúa como oficial de tránsito
 
 ## Activar una interfaz
 ````
@@ -76,3 +76,32 @@ switchport access vlan *vlan-id*
 ````
 delete flash:vlan.dat 
 ````
+
+
+# Comandos [[OSPF]]
+
+````
+show ip ospf neighbor 
+````
+
+````
+show ip ospf database
+````
+
+````
+show ip ospf database
+````
+
+````
+show ip route
+````
+
+````
+show ip protocols | include Router ID
+````
+
+````
+router-id x.x.x.x
+````
+Asigna un [[Router ID]] 
+

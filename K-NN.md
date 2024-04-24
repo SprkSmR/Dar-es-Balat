@@ -10,7 +10,7 @@ Fácil de usar e implementar, pero intensivo.
 # Funcionamiento
 El algoritmo clasifica un nuevo dato en el grupo que corresponde según los _k_ vecinos más cerca de un grupo u otro. 
 
-Cada atributo es una dimensión en el [[Hiper plano]]
+Cada atributo es una dimensión en el [[Hiperplano]]
 
 ## Métricas de distancia
 

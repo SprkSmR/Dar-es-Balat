@@ -6,7 +6,7 @@ Son las columnas.
 
 ![[Pasted image 20240403101837.png]]
 
-**Contínuo:** decimales
+**Continuo:** decimales
 
 **Discreto**: enteros
 
