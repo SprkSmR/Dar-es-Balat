@@ -1,1 +1,1 @@
-Código de computadora que consiste en instrucciones. Representación binaria del programa computacional leído e interpretado por la computadora. Básicamente, [[binario]].
+Código de computadora que consiste en instrucciones. Representación binaria del programa computacional leído e interpretado por la computadora. Básicamente, [[Binario]].

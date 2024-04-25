@@ -1,0 +1,1 @@
+Que los datos del conjunto de [[Entrenamiento]] y del conjunto de evaluación tengan características similares para que en la evaluación del [[Modelo]] se puedan reconocer esos datos de evaluación.

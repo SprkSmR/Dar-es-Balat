@@ -39,5 +39,7 @@ Si es un resultado que en la realidad es positivo y que el clasificador efectiva
 Si es un resultado que en la realidad es negativo y el clasificador efectivamente lo marca como negativo, entonces es **Verdadero negativo** o **True negative**.
 
 
+# [[Procesamiento de texto]]
+
 
 

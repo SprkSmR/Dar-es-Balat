@@ -46,6 +46,6 @@ Se intenta que el modelo de aprendizaje sea capaz de generalizar lo aprendido y 
 ![[Pasted image 20240417094818.png]]
 
 
-# Entrenamiento
+# [[Entrenamiento]]
 El proceso de entrenamiento más básico consiste en particionar la muestra en un conjunto de entrenamiento y prueba.
 
