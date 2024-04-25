@@ -26,7 +26,7 @@ Dependiendo del objetivo del análisis, se deben seleccionar adecuadamente algun
 - [[Matriz de confusión]]
 - [[Precisión]]
 - [[Recall]]
-- [[FI-score]]
+- [[F1-score]]
 
 ## ¿Cuándo se equivoca el clasificador?
 Si una estancia debería ser negativa y el clasificador lo predice como positivo, entonces es un **Falso positivo** o **False positive**.

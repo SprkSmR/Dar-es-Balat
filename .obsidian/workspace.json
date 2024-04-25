@@ -301,14 +301,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matriz de confusión.md",
+                "file": "Balanceo de cargas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f7bcf8a49cd39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FHRP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "035cc521f73fb5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco CLI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -337,7 +361,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Matriz",
+                "query": "cli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -375,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matriz de confusión.md",
+                "file": "Cisco CLI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +416,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matriz de confusión.md",
+                "file": "Cisco CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -415,7 +439,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matriz de confusión.md"
+                "file": "Cisco CLI.md"
               }
             }
           }
@@ -436,17 +460,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7def94d72b5ecc35",
+  "active": "035cc521f73fb5c0",
   "lastOpenFiles": [
+    "HSRP.md",
+    "FHRP.md",
+    "Switch.md",
+    "STP.md",
+    "Balanceo de cargas.md",
+    "Load balancing.md",
+    "Azure App Service.md",
+    "Overfitting.md",
+    "Métrica F1.md",
+    "F1-score.md",
+    "Aprendizaje supervisado.md",
+    "Matriz de confusión.md",
     "Machine Learning.md",
     "Inteligencia Artifical.md",
     "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
     "Aprendizaje estadístico.md",
     "Default route.md",
-    "Overfitting.md",
     "Cisco CLI.md",
     "Router ID.md",
-    "STP.md",
     "Tamaño de bloque.md",
     "Máscara de subred.md",
     "Uninet.md",
@@ -454,16 +488,6 @@
     "Token Ring.md",
     "Distancia administrativa.md",
     "OSPF.md",
-    "NTP.md",
-    "ICAN.md",
-    "DNS.md",
-    "Estado de enlace.md",
-    "FECNEC.md",
-    "BECNEC.md",
-    "ICMP.md",
-    "RIP.md",
-    "Análisis sintáctico descendente predictivo.md",
-    "Look-Ahead.md",
     "Pasted image 20240422152635.png",
     "Pasted image 20240421213705.png",
     "Pasted image 20240421010613.png",
