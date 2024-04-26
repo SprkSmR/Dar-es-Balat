@@ -337,14 +337,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Probabilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f490d7ca23fa976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4c8a31653c17a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conjunto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad41db7f3555be44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -373,7 +409,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "procesamiento de texto",
+                "query": "Probabilidad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -411,7 +447,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Probabilidad.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -428,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Probabilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -451,11 +487,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesamiento de texto.md"
+                "file": "Probabilidad.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -471,14 +508,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6451ccaff4f145f2",
+  "active": "ad41db7f3555be44",
   "lastOpenFiles": [
+    "Rango.md",
+    "Conjunto.md",
+    "Probabilidad.md",
+    "Espacio muestral.md",
+    "Combinación.md",
+    "Ordenamiento circular.md",
+    "Procesamiento de texto.md",
     "NLTK.md",
     "Arreglos.md",
-    "Combinación.md",
     "Medidas Estadísticas.md",
     "Estadística.md",
-    "Procesamiento de texto.md",
     "Pasted image 20240425163528.png",
     "Pasted image 20240425163328.png",
     "Pasted image 20240425163146.png",
@@ -487,7 +529,6 @@
     "Pasted image 20240425162911.png",
     "tag.md",
     "POS.md",
-    "Ordenamiento circular.md",
     "Stem.md",
     "Stemming.md",
     "Lematización.md",
@@ -502,10 +543,6 @@
     "HSRP.md",
     "FHRP.md",
     "Switch.md",
-    "STP.md",
-    "Balanceo de cargas.md",
-    "Load balancing.md",
-    "Azure App Service.md",
     "Pasted image 20240422152635.png",
     "Pasted image 20240421213705.png",
     "Pasted image 20240421010613.png",
