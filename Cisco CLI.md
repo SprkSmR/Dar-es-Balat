@@ -105,3 +105,14 @@ router-id x.x.x.x
 ````
 Asigna un [[Router ID]] 
 
+
+# Configurar ruteo
+## Configurar ruteo
+````
+router [tipo de ruteo, ej: OSPF]
+````
+
+## Configurar redes permitidas
+````
+network [redes permitidas (process ID)] [wildcard] [Area]
+````
