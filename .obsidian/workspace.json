@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Procesamiento de texto.md",
                 "mode": "source",
                 "source": false
               }
@@ -409,7 +409,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cisco CLI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -447,7 +447,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Procesamiento de texto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Procesamiento de texto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -487,7 +487,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco CLI.md"
+                "file": "Procesamiento de texto.md"
               }
             }
           }
@@ -496,7 +496,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -510,13 +510,28 @@
   },
   "active": "ad41db7f3555be44",
   "lastOpenFiles": [
+    "Coeficiente de Jaccard.md",
+    "Procesamiento de texto.md",
+    "Coeficiente de traslape.md",
+    "Coeficiente de Dice.md",
+    "Coeficiente de coseno.md",
+    "Pasted image 20240429161548.png",
+    "Pasted image 20240429161537.png",
+    "Pasted image 20240429161504.png",
+    "Pasted image 20240429161454.png",
+    "Pasted image 20240429161213.png",
+    "Image20240429155024.png",
+    "POS.md",
+    "Lematización.md",
+    "Taller de Biblioteca Emprendimiento Tecnológico.md",
+    "Uplink.md",
+    "Cisco CLI.md",
     "Cable Serial.md",
     "Clock Rate.md",
     "Probabilidad.md",
     "OSPF.md",
     "DHCP.md",
     "Backbone.md",
-    "Cisco CLI.md",
     "Router ID.md",
     "Process ID.md",
     "Wildcard.md",
@@ -526,26 +541,10 @@
     "Espacio muestral.md",
     "Combinación.md",
     "Ordenamiento circular.md",
-    "Procesamiento de texto.md",
-    "NLTK.md",
-    "Arreglos.md",
-    "Medidas Estadísticas.md",
-    "Estadística.md",
     "Pasted image 20240425163528.png",
     "Pasted image 20240425163328.png",
     "Pasted image 20240425163146.png",
     "Pasted image 20240425163012.png",
-    "Pasted image 20240425162936.png",
-    "Pasted image 20240425162911.png",
-    "tag.md",
-    "POS.md",
-    "Stem.md",
-    "Stemming.md",
-    "Lematización.md",
-    "Pasted image 20240425154457.png",
-    "Pasted image 20240422152635.png",
-    "Pasted image 20240421213705.png",
-    "Pasted image 20240421010613.png",
     "OpenMP-4.0-C.pdf",
     "EjercicioArbol 1.xlsx",
     "E7BC6A00",

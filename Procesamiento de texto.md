@@ -29,7 +29,7 @@ Divide un texto en una lista de subcadenas.
 ## [[POS]] tagging
 [[tag]]
 Recibe como entrada el texto en algún lenguaje y como salida regresa un conjunto de pares de la forma palabra-etiqueta gramatical (sustantivo, adjetivo, verbo, etc).
-
+![[Image20240429155024.png]]
 ## StopWords
 Términos extremadamente comunes que suelen aparecer en muchas ocasiones y no agregan significado importante, así que suelen eliminarse del procesamiento de texto.
 
@@ -53,6 +53,7 @@ d = distancia
 ![[Pasted image 20240425163012.png]]
 
 ## Frecuencia inversa del documento
+Tiene la idea de un [[Promedio ponderado]]
 Le asigna un peso a cada término 
 ![[Pasted image 20240425163146.png]]
 
@@ -69,3 +70,16 @@ Asigna a un término _t_ un peso en documento _d_ que es:
 - Muy alto cuando _t_ ocurre muchas veces en pocos documentos.
 - Bajo cuando el término ocurre pocas veces en muchos documentos.
 - Muy bajo cuando el término ocurre en la mayoría de documentos.
+
+# Métricas de similitud entre textos
+## Mapa general
+![[Pasted image 20240429161213.png]]
+
+## Caracteres
+
+## Términos
+### [[Coeficiente de coseno]]
+### [[Coeficiente de Dice]]
+### [[Coeficiente de traslape]]
+### [[Coeficiente de Jaccard]]
+## Otras
