@@ -12,6 +12,10 @@ do
 ````
 
 ````
+no
+````
+
+````
 end
 ````
 
@@ -115,4 +119,31 @@ router [tipo de ruteo, ej: OSPF]
 ## Configurar redes permitidas
 ````
 network [redes permitidas (process ID)] [wildcard] [Area]
+````
+
+# [[DHCP]]
+## Generar pool
+````
+ip dhcp pool [nombre]
+````
+
+## Dentro del modo de configuración de DHCP
+### Asignar red desde la cual ofrecer las [[IP]]s(omarapesta)
+````
+network [red] [máscara]
+````
+
+### Asignar [[Gateway]] predeterminado para distribuir las [[IP]]s
+````
+default-router [ip de la interfaz del router]
+````
+
+### (Opcional) Asignar un servidor de [[DNS]]
+````
+dns-server [ip del servidor]
+````
+
+## Excluir direcciones [[IP]] del servicio [[DHCHP]]
+````
+ip dhcp excluded-address [ip excluida | rango de ip's contiguas]
 ````

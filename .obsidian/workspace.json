@@ -4,251 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "936cc0adda233eef",
+        "id": "b4f6f9c6ecbd5d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d05944fde26231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overfitting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f979663751eacc50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Underfitting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a067e8b42a5465c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 501)/Aprendizaje Automático.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b6f8eef5a86aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gramática ambigua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8bd0dc34647d725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gramática libre de contexto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "153834523f6544b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprendizaje supervisado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9d8ff315b8c993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exactitud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70dc5a797e69e125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matriz de confusión.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a51c4de2c3cbdb1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Precisión.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb8f7c0f227f4194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fccd1e060f4c872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arreglos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e508ba998558c9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Características.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74a5e94b3c73abf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exactitud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d729f37bd6ef138f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reglas de producción y derivaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8393afed8ea29a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reglas de producción y derivaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "503fd46c98ff778d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conjunto FIRST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a034f17e6100ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47a53eeba552423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "777ff2a105c07e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BECNEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c77ce4065447b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estado de enlace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "003dad420d5123d4",
+            "id": "7f5c50846a668ca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -260,127 +20,115 @@
             }
           },
           {
-            "id": "dc07e96da27614f5",
+            "id": "73a40c415bd30524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "K-means.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae1082f638116ade",
+            "id": "c277830c7509bd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FDDI.md",
+                "file": "Aplicación.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "355511591906aa90",
+            "id": "65993fbd7d8d1d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7def94d72b5ecc35",
+            "id": "5313e1458b538feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Balanceo de cargas.md",
+                "file": "Sistemas de archivos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82f7bcf8a49cd39f",
+            "id": "d3db59102e6bc2af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FHRP.md",
+                "file": "SMB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "035cc521f73fb5c0",
+            "id": "df4a3c3c627b4069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizaje supervisado.md",
+                "file": "Función de probabilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6451ccaff4f145f2",
+            "id": "72c9c40ceefa2da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidad.md",
+                "file": "Modelo OSI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f490d7ca23fa976",
+            "id": "5dacfa7d4f5b0fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidad.md",
+                "file": "URI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c4c8a31653c17a0",
+            "id": "ac1f2530e55d37dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conjunto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad41db7f3555be44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Métricas de distancia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -409,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "El modelo OSI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -447,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Modelo OSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesamiento de texto.md",
+                "file": "Modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -487,12 +235,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesamiento de texto.md"
+                "file": "Modelo OSI.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -508,43 +255,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad41db7f3555be44",
+  "active": "72c9c40ceefa2da9",
   "lastOpenFiles": [
-    "Coeficiente de Jaccard.md",
+    "Transporte.md",
+    "Modelo OSI.md",
+    "ICMP.md",
+    "IP.md",
+    "K-means.md",
+    "Función de probabilidad.md",
+    "Distribución de probabilidad.md",
+    "Pasted image 20240509174935.png",
+    "SMB.md",
+    "Sistemas de archivos.md",
+    "HTTP.md",
+    "URI.md",
+    "URL.md",
+    "Aplicación.md",
+    "Untitled 5.md",
+    "Enlace de datos.md",
+    "VLAN.md",
+    "Clustering jerarquico.md",
+    "Pasted image 20240508102448.png",
+    "Pasted image 20240508102433.png",
+    "Pasted image 20240508102410.png",
+    "Pasted image 20240508102401.png",
+    "Aprendizaje no supervisado.md",
+    "K-NN.md",
+    "Métricas de distancia.md",
+    "Untitled 4.md",
+    "Cisco CLI.md",
     "Procesamiento de texto.md",
-    "Coeficiente de traslape.md",
-    "Coeficiente de Dice.md",
-    "Coeficiente de coseno.md",
+    "Aprendizaje supervisado.md",
+    "Árboles de Decisión (ID3).md",
+    "NLTK.md",
     "Pasted image 20240429161548.png",
     "Pasted image 20240429161537.png",
     "Pasted image 20240429161504.png",
     "Pasted image 20240429161454.png",
     "Pasted image 20240429161213.png",
-    "Image20240429155024.png",
-    "POS.md",
-    "Lematización.md",
-    "Taller de Biblioteca Emprendimiento Tecnológico.md",
-    "Uplink.md",
-    "Cisco CLI.md",
-    "Cable Serial.md",
-    "Clock Rate.md",
-    "Probabilidad.md",
-    "OSPF.md",
-    "DHCP.md",
-    "Backbone.md",
-    "Router ID.md",
-    "Process ID.md",
-    "Wildcard.md",
-    "DDR.md",
-    "Rango.md",
-    "Conjunto.md",
-    "Espacio muestral.md",
-    "Combinación.md",
-    "Ordenamiento circular.md",
-    "Pasted image 20240425163528.png",
-    "Pasted image 20240425163328.png",
-    "Pasted image 20240425163146.png",
-    "Pasted image 20240425163012.png",
     "OpenMP-4.0-C.pdf",
     "EjercicioArbol 1.xlsx",
     "E7BC6A00",

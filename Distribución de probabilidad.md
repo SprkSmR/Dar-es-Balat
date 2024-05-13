@@ -1,0 +1,1 @@
+[[Función de probabilidad]]
