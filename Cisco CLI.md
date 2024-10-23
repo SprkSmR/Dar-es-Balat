@@ -49,7 +49,25 @@ running-config startup
 wr 
 ````
 
+````
+service password-encryption
+````
 
+````
+password [contraseña]
+````
+
+````
+login
+````
+
+````
+enable secret [secret]
+````
+
+````
+banner motd #[mensaje]#
+````
 ## Activar una interfaz
 ````
 interface *interfaz*

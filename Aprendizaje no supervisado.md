@@ -16,3 +16,5 @@ Dicen que esto es como [[K-means]].
 
 Para esto es necesario tener conocimiento de los datos, dominio del problema. Conocimiento del negocio.
 
+
+# [[Redes neuronales]] 
