@@ -1,3 +1,16 @@
+[[Conmutador]]
+
+Dispositivo de **Capa 2** del [[Modelo OSI]]. Hay [[Switch]]es que pueden trabajar en capas superiores como **Capa 3** y **Capa 4**. Estos son llamados [[Switch Multicapa]].
+
+## Funciones principales:
+- Interconexión de los dispositivos de red en una [[Topología física de estrella]].
+- Regeneración de la [[Señal]].
+- Entiende y envía tráfico basado en la dirección [[MAC]] de la [[Tarjeta de red]] de un [[Computador]].
+- Optimiza el tráfico por medio de [[Segmentación de redes]] para tener [[Dominio de colisión]]'s más pequeños, pero mantiene un solo [[Dominio de broadcast]].
+
+
+
+
 Emplea direcciones [[MAC]].
 
 Tienen tablas de [[Conmutación]].

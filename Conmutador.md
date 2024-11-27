@@ -1,1 +1,3 @@
+[[Switch]]
+
 Realiza [[Conmutación]]
