@@ -1,0 +1,1 @@
+[[Dominio de colisión]]

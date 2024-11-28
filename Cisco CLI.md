@@ -161,7 +161,7 @@ default-router [ip de la interfaz del router]
 dns-server [ip del servidor]
 ````
 
-## Excluir direcciones [[IP]] del servicio [[DHCHP]]
+## Excluir direcciones [[IP]] del servicio [[DHCP]]
 ````
 ip dhcp excluded-address [ip excluida | rango de ip's contiguas]
 ````

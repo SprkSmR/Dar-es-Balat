@@ -7,10 +7,10 @@ Dispositivo de **Capa 1** en el [[Modelo OSI]].
 - Regeneración de la [[Señal]].
 - **PRINCIPAL**: Retransmisión de [[Bit]]s  a través de los [[Medios de red]]
 
-## No tiene:
+## No tiene/hace:
 - [[Direccionamiento]]
 - [[Jerarquía]] dentro de la red.
-- No crea [[Segmento de red]]'s. 
+- No crea [[Segmentos de red]]. 
 
 ## Otras características:
 - Comparte todo el [[Ancho de banda]] disponible entre los dispositivos que se encuentran conectados a él. Es un dispositivo **tonto** y es raro de encontrar en instalaciones de [[Red]] hoy en día.
@@ -20,6 +20,6 @@ Dispositivo de **Capa 1** en el [[Modelo OSI]].
 ### Imagen real:
 ![[Pasted image 20241127022122.png]]
 
-### Imagen diagrama:
+### Imagen [[Diagrama de red]]:
 ![[Pasted image 20241127022152.png]]
 

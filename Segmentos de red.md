@@ -1,0 +1,2 @@
+[[Segmento de red]]
+

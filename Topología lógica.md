@@ -1,0 +1,1 @@
+La manera como los dispositivos envían tráfico sobre la [[Topología física]].

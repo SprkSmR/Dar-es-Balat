@@ -20,6 +20,7 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[Topología]]s
 - [[LAN]]
 - [[WAN]]
+- [[Interpretación de Diagramas de Red]]
 
 
 

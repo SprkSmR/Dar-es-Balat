@@ -3,7 +3,7 @@ Es la combinación de hardware y software en una computadora.
 # Software del sistema
 El software más importante es el software del sistema, el cual incluye [[Sistemas Operativos]].  
 
-Es la colección de programas que te permiten usar la computadora. Se integra de forma cercana con el hardware. Es una [[interfaz]] entre el usuario y el hardware de la computadora. 
+Es la colección de programas que te permiten usar la computadora. Se integra de forma cercana con el hardware. Es una [[Interfaz]] entre el usuario y el hardware de la computadora. 
 
 # Otros tipos de software
 Utilizan el Software del sistema para comunicarse con el hardware.
