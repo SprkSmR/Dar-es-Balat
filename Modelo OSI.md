@@ -23,3 +23,6 @@ Conjunto de [[Protocolo]]s que definen y describen la manera como los [[Computad
 ### 2. [[Enlace de datos]]
 ### 1. [[Física]]
 
+
+## Diagrama:
+![[Pasted image 20241129042814.png]]

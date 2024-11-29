@@ -27,13 +27,16 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 ### Fundamentos de Networking - Parte II
 #### Conceptos clave:
 - [[Modelo OSI]]
-- [[Modelo TCP/IP]]
+- [[Modelo TCP-IP]]
 
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf]]
 
 ### Fundamentos de Networking - Parte III
 #### Conceptos clave:
+- [[TCP vs. UDP]]
+- [[Encapsulamiento de la Data]]
+- [[Modelos de Resolución de Problemas de Conexiones]]
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf]]
 
