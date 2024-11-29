@@ -11,10 +11,14 @@
             "id": "eb1bcae47d6a223e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dispositivos de red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dispositivos de red"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Seguridad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dispositivos de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Dispositivos de red"
             }
           },
           {
@@ -183,9 +187,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 382,
-        "y": 118,
-        "width": 1024,
+        "x": 766,
+        "y": -8,
+        "width": 1027,
         "height": 720,
         "maximize": true,
         "zoom": 0
@@ -194,13 +198,22 @@
   },
   "active": "eb1bcae47d6a223e",
   "lastOpenFiles": [
+    "Seguridad.md",
+    "Azure App Service.md",
+    "Modelo Jerárquico de 3 Capas.md",
+    "Pasted image 20241128185628.png",
+    "Tecnología/Términos comunes/ORM.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
+    "Segmentación de redes.md",
+    "VLAN.md",
+    "Dispositivos de red.md",
+    "Cisco System.md",
+    "Interpretación de Diagramas de Red.md",
+    "Curso CCNA 200-301 v1.1.md",
     "Conectarse a SQL Server en CMD.md",
     "Interfaces.md",
-    "Curso CCNA 200-301 v1.1.md",
-    "Interpretación de Diagramas de Red.md",
     "WAN.md",
     "VPN.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
     "Pasted image 20241128062137.png",
     "Modem Analógico.md",
     "Pasted image 20241128062057.png",
@@ -218,19 +231,9 @@
     "Red de Interconexión de Trabajo.md",
     "Pasted image 20241128061659.png",
     "Cableado.md",
-    "DHCP.md",
-    "Red.md",
-    "Subnet.md",
-    "DHCHP.md",
-    "Cisco CLI.md",
-    "Servidor.md",
-    "Server.md",
-    "NIC.md",
-    "Topología Jerárquica en Estrella.md",
     "Pasted image 20241128060415.png",
     "Pasted image 20241128060308.png",
     "Pasted image 20241128060257.png",
-    "Pasted image 20241128060244.png",
     "3.2.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-2-v1.0.pdf",

@@ -9,9 +9,8 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 2. **_Presentación 3_** _- El Estándar Ethernet, Modos de Comunicación, Sistema Hexadecimal, Estándares de Cableado Estructurado._![[THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf]]
 
 ## Documentos complementarios (Fundamentos de Networking):
-
-![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf]]
-### Conceptos clave:
+### Fundamentos de Networking - Parte I
+#### Conceptos clave:
 - [[Dispositivos de red]]
 - [[Hub]] / [[Concentrador]]
 - [[Switch]] / [[Conmutador]]
@@ -22,12 +21,28 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[WAN]]
 - [[Interpretación de Diagramas de Red]]
 
+#### Documento original:
+![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf]]
 
+### Fundamentos de Networking - Parte II
+#### Conceptos clave:
+- [[Modelo OSI]]
+- [[Modelo TCP/IP]]
 
+#### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf]]
 
+### Fundamentos de Networking - Parte III
+#### Conceptos clave:
+#### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf]]
 
+### Fundamentos de Networking - Parte IV
+#### Conceptos clave:
+#### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf]]
 
+### Fundamentos de Networking - Parte V
+#### Conceptos clave:
+#### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf]]

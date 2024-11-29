@@ -9,7 +9,7 @@ Permite generar grupos en la [[Red]] que sean independientes del [[Segmento de r
 - Dominios más pequeños (permite aprovechar mejor las interfaces disponibles según su uso).
 
 # Beneficios
-- Seguridad
+- [[Seguridad]]
 - Eficiencia de la tecnología
 - Reducción de costos
 - Mejor rendimiento
