@@ -42,6 +42,12 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 
 ### Fundamentos de Networking - Parte IV
 #### Conceptos clave:
+- [[Repaso de Ethernet]]
+- [[Estándares Ethernet]]
+- [[Cableado UTP]]
+- [[Beneficios del Uso de Switches]]
+- [[Direccionamiento Ethernet]]
+- [[Entramodo Ethernet]]
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf]]
 

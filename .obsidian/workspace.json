@@ -11,14 +11,10 @@
             "id": "eb1bcae47d6a223e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dispositivos de red.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dispositivos de red"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Seguridad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dispositivos de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dispositivos de red"
+              "title": "Outgoing links"
             }
           },
           {
@@ -147,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,87 +156,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "0d7b88d8f2518a9b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "16b3410f50ec5292",
-        "type": "window",
-        "children": [
-          {
-            "id": "a320fcd64d4a67d8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eb95b27d65fbc3d8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 766,
-        "y": -8,
-        "width": 1027,
-        "height": 720,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "eb1bcae47d6a223e",
   "lastOpenFiles": [
-    "Seguridad.md",
-    "Azure App Service.md",
-    "Modelo Jerárquico de 3 Capas.md",
-    "Pasted image 20241128185628.png",
-    "Tecnología/Términos comunes/ORM.md",
+    "Ethernet.md",
+    "Estándares Ethernet.md",
+    "IEEE802.3an.md",
+    "10GBASE-T.md",
+    "10 Gigabit Ethernet.md",
+    "Gigabit Ethernet.md",
+    "1000BASE-T.md",
+    "IEEE802.3ab.md",
+    "1000BASE-LX.md",
+    "IEEE802.3z.md",
+    "100BASE-T.md",
+    "IEEE802.3u.md",
+    "Fast Ethernet.md",
+    "10BASE-T.md",
+    "IEEE802.3.md",
+    "GigaEthernet.md",
+    "Switch de Acceso.md",
+    "10GigaEthernet.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
+    "Cobre.md",
+    "CSMA-CD.md",
+    "Half-Duplex.md",
+    "Full-Duplex.md",
+    "NIC.md",
+    "Detección de colisiones.md",
+    "Pasted image 20241130051835.png",
+    "Cableado UTP.md",
+    "Pasted image 20241130051504.png",
+    "Pasted image 20241130051412.png",
+    "Electrica.md",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
-    "Segmentación de redes.md",
-    "VLAN.md",
-    "Dispositivos de red.md",
-    "Cisco System.md",
-    "Interpretación de Diagramas de Red.md",
-    "Curso CCNA 200-301 v1.1.md",
-    "Conectarse a SQL Server en CMD.md",
-    "Interfaces.md",
-    "WAN.md",
-    "VPN.md",
+    "Pasted image 20241128185628.png",
     "Pasted image 20241128062137.png",
-    "Modem Analógico.md",
     "Pasted image 20241128062057.png",
-    "Cable Modem.md",
     "Pasted image 20241128062041.png",
-    "DSL.md",
     "Pasted image 20241128061931.png",
-    "Conmutador.md",
-    "LAN.md",
-    "Topología.md",
-    "Topología en Bus.md",
-    "Switch.md",
     "Pasted image 20241128061727.png",
-    "Internetwork.md",
-    "Red de Interconexión de Trabajo.md",
     "Pasted image 20241128061659.png",
-    "Cableado.md",
-    "Pasted image 20241128060415.png",
-    "Pasted image 20241128060308.png",
-    "Pasted image 20241128060257.png",
     "3.2.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-2-v1.0.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-1-v1.0.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0.pdf"

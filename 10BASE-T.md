@@ -2,6 +2,6 @@
 
 [[Ethernet]]
 
-[[10BASE-T]]
+[[IEEE802.3]]
 
 Velocidad: 10 [[Mbps]]
