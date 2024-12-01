@@ -11,10 +11,32 @@
             "id": "eb1bcae47d6a223e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Modelo TCP-IP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo TCP-IP"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b334f5aeca0054f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c20ce727bb1a983",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1"
             }
           }
         ]
@@ -48,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CCNA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7450fbfde1be2c43",
@@ -158,49 +181,49 @@
   },
   "active": "eb1bcae47d6a223e",
   "lastOpenFiles": [
+    "Acceso a Red.md",
+    "Modelo TCP-IP.md",
+    "Internet.md",
+    "WAN.md",
+    "Enlace de datos.md",
+    "Definición de Tecnología WAN.md",
+    "Curso CCNA 200-301 v1.1.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
+    "Entramado Ethernet.md",
+    "Tramas.md",
     "Ethernet.md",
+    "Pasted image 20241201050432.png",
+    "Repaso de Ethernet.md",
+    "Direccionamiento Ethernet.md",
+    "Direccionamiento Unicast.md",
+    "MAC.md",
+    "Pasted image 20241201045857.png",
+    "Direccionamiento Broadcast.md",
+    "Direccionamiento Multicast.md",
+    "Beneficios del Uso de Switches.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
+    "Switch.md",
+    "Cableado UTP.md",
+    "AP.md",
+    "T568B.md",
+    "Pasted image 20241201044341.png",
+    "T568A.md",
+    "Pasted image 20241201044317.png",
     "Estándares Ethernet.md",
+    "CCNA 200-301 v1.1.md",
     "IEEE802.3an.md",
     "10GBASE-T.md",
-    "10 Gigabit Ethernet.md",
-    "Gigabit Ethernet.md",
-    "1000BASE-T.md",
-    "IEEE802.3ab.md",
-    "1000BASE-LX.md",
-    "IEEE802.3z.md",
-    "100BASE-T.md",
-    "IEEE802.3u.md",
-    "Fast Ethernet.md",
-    "10BASE-T.md",
-    "IEEE802.3.md",
-    "GigaEthernet.md",
-    "Switch de Acceso.md",
-    "10GigaEthernet.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
-    "Cobre.md",
-    "CSMA-CD.md",
-    "Half-Duplex.md",
-    "Full-Duplex.md",
-    "NIC.md",
-    "Detección de colisiones.md",
     "Pasted image 20241130051835.png",
-    "Cableado UTP.md",
     "Pasted image 20241130051504.png",
     "Pasted image 20241130051412.png",
-    "Electrica.md",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
     "Pasted image 20241128185628.png",
     "Pasted image 20241128062137.png",
     "Pasted image 20241128062057.png",
-    "Pasted image 20241128062041.png",
-    "Pasted image 20241128061931.png",
-    "Pasted image 20241128061727.png",
-    "Pasted image 20241128061659.png",
     "3.2.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-2-v1.0.pdf",
     "THOR-CCNA-200-203-PPT-FundNetworking-Parte-1-v1.0.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0.pdf"

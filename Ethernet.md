@@ -11,6 +11,10 @@ Cuando llegó el [[Cableado UTP]] y el primer [[Hub]], la tecnología [[Ethernet
 ## [[Estándares Ethernet]]
 Velocidad del Ethernet default: 10 [[Mbps]]
 
+## [[Direccionamiento Ethernet]]
+
+## [[Entramado Ethernet]]
+
 ## Diagramas
 ### [[Estándar]]es [[Ethernet]] vs [[Modelo OSI]]:
 ![[Pasted image 20241130051412.png]]

@@ -25,6 +25,7 @@ Un [[Switch]] puede ubicarse en las siguientes funciones:
 - [[Switch de Distribución]]
 - [[Switch de Núcleo]]
  
+## [[Beneficios del Uso de Switches]]
 
 # Cómo aprende un Switch
 #chatgpt 

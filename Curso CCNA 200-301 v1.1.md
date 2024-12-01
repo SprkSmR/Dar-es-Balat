@@ -37,6 +37,7 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[TCP vs. UDP]]
 - [[Encapsulamiento de la Data]]
 - [[Modelos de Resolución de Problemas de Conexiones]]
+
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf]]
 
@@ -47,11 +48,14 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[Cableado UTP]]
 - [[Beneficios del Uso de Switches]]
 - [[Direccionamiento Ethernet]]
-- [[Entramodo Ethernet]]
+- [[Entramado Ethernet]]
+
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf]]
 
 ### Fundamentos de Networking - Parte V
 #### Conceptos clave:
+- [[Definición de Tecnología WAN]]
+
 #### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf]]
