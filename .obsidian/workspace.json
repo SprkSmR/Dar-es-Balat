@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelo TCP-IP.md",
+                "file": "WAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo TCP-IP"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6b334f5aeca0054f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c20ce727bb1a983",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1"
+              "title": "WAN"
             }
           }
         ]
@@ -70,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CCNA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7450fbfde1be2c43",
@@ -179,16 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "8460cf7bc11e2f1e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "66152d52c9a4dab4",
+        "type": "window",
+        "children": [
+          {
+            "id": "5153afca0d8a0102",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1c20ce727bb1a983",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 232,
+        "y": 164,
+        "width": 593,
+        "height": 604,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "eb1bcae47d6a223e",
   "lastOpenFiles": [
-    "Acceso a Red.md",
-    "Modelo TCP-IP.md",
-    "Internet.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
     "WAN.md",
-    "Enlace de datos.md",
     "Definición de Tecnología WAN.md",
     "Curso CCNA 200-301 v1.1.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
+    "Modelo TCP-IP.md",
+    "Acceso a Red.md",
+    "Internet.md",
+    "Enlace de datos.md",
     "Entramado Ethernet.md",
     "Tramas.md",
     "Ethernet.md",
@@ -212,7 +229,6 @@
     "Estándares Ethernet.md",
     "CCNA 200-301 v1.1.md",
     "IEEE802.3an.md",
-    "10GBASE-T.md",
     "Pasted image 20241130051835.png",
     "Pasted image 20241130051504.png",
     "Pasted image 20241130051412.png",
