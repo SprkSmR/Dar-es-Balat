@@ -1,6 +1,8 @@
 [[Concentrador]] 
 
-Dispositivo de **Capa 1** en el [[Modelo OSI]].
+Dispositivo de **Capa 1** ([[Física]]) en el [[Modelo OSI]].
+
+Es básicamente un cable multipuertos.
 
 ## Funciones principales:
 - Interconexión de los dispositivos de red en una [[Topología física de estrella]].

@@ -16,3 +16,9 @@ Continuas y discretas
 Se encarga de garantizar la integridad de las [[Tramas]] y de la [[Detección de colisiones]] ([[CSMA-CD]] Y [[CSMACA]])
 
 [[Algoritmo de redundancia ciclica]]
+
+## En tecnología [[WAN]]
+El [[Protocolo]] o mecanismo de [[Encapsulamiento de la Data]] utilizado en las interfaces de los [[Dispositivos de red]]. Entre las principales, se encuentran las siguientes:
+
+- ### [[HDLC]]
+- ### [[PPP]]

@@ -18,17 +18,31 @@ Muchas tecnologías [[WAN]] son ampliamente utilizadas en ambientes hogareños, 
 - [[PSTN]]
 - [[Red]] del [[ISP]].
 - Entre otros.
+- [[Velocidad de los enlaces]]
 
-## Tipos:
+### Diagrama desde la perspectiva de cliente.
+![[Pasted image 20250108093149.png]]
+#### [[DEMARC]]
+#### [[CPE]]
+#### [[CSU]]/[[DSU]]
+#### [[DTE]]
+#### [[DCE]]
 
+Entre [[DTE]] Y [[DCE]] es necesario tener mecanismos de [[Sincronismo]] y de [[Tasa de transferencia]]. 
+
+#### [[Telco]]
+
+
+## Tecnologías (cliente):
 - ### [[DSL]]
 - ### [[Cable Modem]]
 - ### [[Modem Analógico]]
 - ### [[VPN]]
+- ### [[Leased Line]]
 
-
-
-
+## Tecnologías ([[ISP]]):
+- ### [[Metro Ethernet]]
+- ### [[Router SOHO]]
 ## Diagrama:
 ![[Pasted image 20241128061659.png]]
 

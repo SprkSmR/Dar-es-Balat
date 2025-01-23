@@ -1,0 +1,1 @@
+Líneas alquiladas. Las ofrecen los [[ISP]] quienes rentan esta estructura física para interconectar sucursales de empresas que se encuentran geográficamente distantes.

@@ -1,1 +1,1 @@
-Enlace punto a punto entre dos dispositivos de [[Red]]
+Enlace [[Punto a Punto]] entre dos dispositivos de [[Red]]

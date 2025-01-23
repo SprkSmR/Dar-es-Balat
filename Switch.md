@@ -2,11 +2,13 @@
 
 Dispositivo de **Capa 2** del [[Modelo OSI]]. Hay [[Switch]]es que pueden trabajar en capas superiores como **Capa 3** y **Capa 4**. Estos son llamados [[Switch Multicapa]].
 
+Estándar de comunicación global para [[LAN]] y [[WAN]].
+
 ## Funciones principales:
 - Interconexión de los dispositivos de red en una [[Topología física de estrella]].
 - Regeneración de la [[Señal]].
 - **PRINCIPAL:** Entiende y envía tráfico basado en la dirección [[MAC]] de la [[Tarjeta de red]] de un [[Computador]].
-- **PRINCIPAL:** Optimiza el tráfico por medio de [[Segmentación de redes]] para tener [[Dominios de colisión]] más pequeños, pero mantiene un solo [[Dominio de broadcast]].
+- **PRINCIPAL:** Optimiza el tráfico por medio de [[Segmentación de redes]] para tener [[Dominios de colisión]] más pequeños ([[Micro Segmentación]]), pero mantiene un solo [[Dominio de broadcast]].
 
 ## No tiene/hace:
 - No entiende de direcciones [[IP]]. Solo [[MAC]]S, a no ser que sea un [[Switch Multicapa]] de **Capa 3**.

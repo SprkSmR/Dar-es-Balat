@@ -1,0 +1,1 @@
+Punto de demarcación. No es [[Cableado]] ni pertenece a los [[Dispositivos de red]]. Es un concepto que indica el inicio o el fin de la responsabilidad en el enlace de comunicaciones entre cliente y la [[Telco]].

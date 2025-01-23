@@ -1,0 +1,1 @@
+Customer Premises Equipment. Todos los [[Dispositivos de red]] ubicados del lado de cliente. 

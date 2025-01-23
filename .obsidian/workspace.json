@@ -4,39 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e177b2344b342142",
+        "id": "61df4cee20e6c0eb",
         "type": "tabs",
         "children": [
           {
-            "id": "eb1bcae47d6a223e",
+            "id": "73fbb26f10f20dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición de Tecnología WAN.md",
+                "file": "Switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición de Tecnología WAN"
+              "title": "Switch"
             }
-          }
-        ]
-      },
-      {
-        "id": "573e746fa72f3fb4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fabbbc2a39c833a7",
+            "id": "5cbd616cab2f8853",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf"
+                "file": "TCP vs. UDP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1"
+              "icon": "lucide-file",
+              "title": "TCP vs. UDP"
             }
           }
         ]
@@ -70,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CCNA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curso CCNA 200-301 v1.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Curso CCNA 200-301 v1.1"
             }
           },
           {
@@ -131,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CCNA"
             }
           },
           {
@@ -156,17 +154,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CCNA.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CCNA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,52 +178,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb1bcae47d6a223e",
+  "active": "73fbb26f10f20dd0",
   "lastOpenFiles": [
+    "Dispositivos de red.md",
     "Curso CCNA 200-301 v1.1.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
-    "Entramado Ethernet.md",
-    "Estándares Ethernet.md",
-    "Modelos de Resolución de Problemas de Conexiones.md",
+    "Hub.md",
+    "Dominio de broadcast.md",
+    "Dominio de colisión.md",
     "Física.md",
+    "TCP vs. UDP.md",
+    "CCNA 200-301 v1.1.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
+    "DSL.md",
     "WAN.md",
-    "Definición de Tecnología WAN.md",
-    "Modelo TCP-IP.md",
-    "Acceso a Red.md",
-    "Internet.md",
+    "Router SOHO.md",
     "Enlace de datos.md",
-    "Tramas.md",
-    "Ethernet.md",
-    "Pasted image 20241201050432.png",
-    "Repaso de Ethernet.md",
-    "Direccionamiento Ethernet.md",
-    "Direccionamiento Unicast.md",
-    "MAC.md",
-    "Pasted image 20241201045857.png",
-    "Direccionamiento Broadcast.md",
-    "Direccionamiento Multicast.md",
-    "Beneficios del Uso de Switches.md",
+    "Router de Acceso.md",
+    "Gateway.md",
+    "Servidor.md",
+    "Pasted image 20250109125905.png",
+    "SOHO.md",
+    "Metro Ethernet.md",
+    "E-Line.md",
+    "Enlace troncal.md",
+    "Punto a Punto.md",
+    "E-Tree.md",
+    "E-Lane.md",
+    "Cable Modem.md",
+    "Cable Coaxial.md",
+    "DSLAM.md",
+    "Multiplexer.md",
+    "Pasted image 20250109103014.png",
+    "Pasted image 20250109103004.png",
+    "Pasted image 20250109102750.png",
+    "Pasted image 20250108102750.png",
+    "Pasted image 20250108093149.png",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0.pdf",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
-    "Switch.md",
-    "Cableado UTP.md",
-    "AP.md",
-    "T568B.md",
-    "Pasted image 20241201044341.png",
-    "T568A.md",
-    "Pasted image 20241201044317.png",
-    "Pasted image 20241130051835.png",
-    "Pasted image 20241130051504.png",
-    "Pasted image 20241130051412.png",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
-    "Pasted image 20241128185628.png",
-    "Pasted image 20241128062137.png",
-    "Pasted image 20241128062057.png",
-    "3.2.pdf",
-    "THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf",
-    "THOR-CCNA-200-203-PPT-FundNetworking-Parte-2-v1.0.pdf",
-    "THOR-CCNA-200-203-PPT-FundNetworking-Parte-1-v1.0.pdf",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0.pdf",
     "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0.pdf"
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0.pdf",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf",
+    "Pasted image 20241201050432.png",
+    "Pasted image 20241201045857.png",
+    "Pasted image 20241201044341.png",
+    "Pasted image 20241201044317.png"
   ]
 }

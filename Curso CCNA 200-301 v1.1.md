@@ -3,14 +3,39 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 [Link](https://www.udemy.com/share/102LzE3@q64Ch86T29vzAVMy0FDFALhSHUIMgm0K0j-WMNMD2RxephqBJWd_bvN2tPEqFYUuZQ==/)
 
 ## Capitulo 1 - Fundamentos de Redes
+### Sesiones
+#### Parte 1.1 [[Dispositivos de red]]
+
+#### Parte 1.2 [[LAN]]/[[WAN]], [[Topología]]s de [[Red]] y [[Ethernet]]
+
+#### Parte 1.3 Tecnologías [[WAN]]
+
+#### Parte 1.4 [[Modelo OSI]]
+
+#### Parte 1.5 [[Modelo TCP-IP]]
+
+---
+#### Parte 2.1 [[TCP vs. UDP]] Parte 1
+
+#### Parte 2.2 [[TCP vs. UDP]] Parte 2
+
+---
+#### Parte 3.1 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 1
+
+#### Parte 3.2 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 2
+
+#### Parte 3.3 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 3
+
+
+### Presentaciones
 
 1. **_Presentación 1_** _- Dispositivos y Topologías de Red, Tecnologías WAN, Componentes de una Conexión a Internet, Modelo OSI y Modelo TCP/IP.![[THOR-CCNA-200-203-PPT-FundNetworking-Parte-1-v1.0.pdf]]
 2. **_Presentación 2_** _- Definición de TCP y UDP, Definición de Sockets, Definición de Mecanismos TCP y Definición de PDU._![[THOR-CCNA-200-203-PPT-FundNetworking-Parte-2-v1.0.pdf]]
 2. **_Presentación 3_** _- El Estándar Ethernet, Modos de Comunicación, Sistema Hexadecimal, Estándares de Cableado Estructurado._![[THOR-CCNA-200-203-PPT-FundNetworking-Parte-3-v1.0.pdf]]
 
-## Documentos complementarios (Fundamentos de Networking):
-### Fundamentos de Networking - Parte I
-#### Conceptos clave:
+### Documentos complementarios (Fundamentos de Networking):
+#### Fundamentos de Networking - Parte I
+##### Conceptos clave:
 - [[Dispositivos de red]]
 - [[Hub]] / [[Concentrador]]
 - [[Switch]] / [[Conmutador]]
@@ -21,28 +46,28 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[WAN]]
 - [[Interpretación de Diagramas de Red]]
 
-#### Documento original:
+##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-1-v1.0 1.pdf]]
 
-### Fundamentos de Networking - Parte II
-#### Conceptos clave:
+#### Fundamentos de Networking - Parte II
+##### Conceptos clave:
 - [[Modelo OSI]]
 - [[Modelo TCP-IP]]
 
-#### Documento original:
+##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-2-v1.0 1.pdf]]
 
-### Fundamentos de Networking - Parte III
-#### Conceptos clave:
+#### Fundamentos de Networking - Parte III
+##### Conceptos clave:
 - [[TCP vs. UDP]]
 - [[Encapsulamiento de la Data]]
 - [[Modelos de Resolución de Problemas de Conexiones]]
 
-#### Documento original:
+##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0 1.pdf]]
 
-### Fundamentos de Networking - Parte IV
-#### Conceptos clave:
+#### Fundamentos de Networking - Parte IV
+##### Conceptos clave:
 - [[Repaso de Ethernet]]
 - [[Estándares Ethernet]]
 - [[Cableado UTP]]
@@ -50,12 +75,12 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 - [[Direccionamiento Ethernet]]
 - [[Entramado Ethernet]]
 
-#### Documento original:
+##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf]]
 
-### Fundamentos de Networking - Parte V
-#### Conceptos clave:
+#### Fundamentos de Networking - Parte V
+##### Conceptos clave:
 - [[Definición de Tecnología WAN]]
 
-#### Documento original:
+##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf]]
