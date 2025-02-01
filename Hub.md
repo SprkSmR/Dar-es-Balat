@@ -1,5 +1,7 @@
 [[Concentrador]] 
 
+_Evolución natural de las redes cuando hace 30 años trabajábamos con redes de computadoras usando [[Cable Coaxial]]. Se buscó un dispositivo centralizado en lugar de puro cable y ahí el Hub._
+
 Dispositivo de **Capa 1** ([[Física]]) en el [[Modelo OSI]].
 
 Es básicamente un cable multipuertos.
@@ -16,7 +18,7 @@ Es básicamente un cable multipuertos.
 
 ## Otras características:
 - Comparte todo el [[Ancho de banda]] disponible entre los dispositivos que se encuentran conectados a él. Es un dispositivo **tonto** y es raro de encontrar en instalaciones de [[Red]] hoy en día.
-- Crea un solo [[Dominio de colisión]] y un solo [[Dominio de broadcast]]. Por ello disminuye el rendimiento de la [[Red]] a medida que se conectan más equipos a él. 
+- Crea un solo [[Dominio de colisión]] y un solo [[Dominio de broadcast]]. Por ello disminuye el rendimiento de la [[Red]] a medida que se conectan más equipos a él. (Expande ambos dominios).
 
 ## Imágenes:
 ### Imagen real:

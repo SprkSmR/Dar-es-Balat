@@ -7,6 +7,7 @@ Dispositivo de **Capa 3** en el [[Modelo OSI]].
 - **PRINCIPAL:** Optimiza la [[Red]] al bloquear tanto los [[Dominios de colisión]] como los [[Dominios de broadcast]]. Cada [[Interfaz]] o [[Subinterfaz]] de un [[Router]] representa un [[Dominio de broadcast]] individual. 
 - **PRINCIPAL:** Establece conexiones entre segmentos [[LAN]] y [[WAN]]. Entiende la [[Jerarquía]] de la [[Red]].
 - **PRINCIPAL:** Aprende direcciones [[IP]] de [[Red]]es. 
+- **PRINCIPAL**: Ofrece selección de rutas basado en costos.
 - [[Escalabilidad]], soporte multimedia, soporte [[Multiprotocolo]] y ricas características de configuración por medio del [[Cisco IOS]]
 
 ## No tiene/hace:

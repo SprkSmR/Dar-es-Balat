@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61df4cee20e6c0eb",
+        "id": "2cf36da9e900c3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "73fbb26f10f20dd0",
+            "id": "dc4e9502e79f70f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Switch.md",
+                "file": "Estándares Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Switch"
-            }
-          },
-          {
-            "id": "5cbd616cab2f8853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP vs. UDP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP vs. UDP"
+              "title": "Estándares Ethernet"
             }
           }
         ]
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CCNA",
+                "query": "cobre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7450fbfde1be2c43",
@@ -178,36 +162,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73fbb26f10f20dd0",
+  "active": "dc4e9502e79f70f4",
   "lastOpenFiles": [
-    "Dispositivos de red.md",
+    "Ethernet.md",
+    "Cableado UTP.md",
+    "Cobre.md",
+    "Medios de red.md",
     "Curso CCNA 200-301 v1.1.md",
-    "Hub.md",
-    "Dominio de broadcast.md",
-    "Dominio de colisión.md",
-    "Física.md",
-    "TCP vs. UDP.md",
-    "CCNA 200-301 v1.1.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
-    "DSL.md",
+    "Estándares Ethernet.md",
+    "Red.md",
+    "Topología.md",
+    "Topología en Malla.md",
+    "Topología Jerárquica en Estrella.md",
+    "Topología en Estrella Extendida.md",
+    "Topología en Estrella.md",
+    "Topología en Anillo.md",
+    "Topología en Bus.md",
     "WAN.md",
-    "Router SOHO.md",
-    "Enlace de datos.md",
-    "Router de Acceso.md",
-    "Gateway.md",
-    "Servidor.md",
+    "LAN.md",
+    "Dispositivos de red.md",
+    "Router.md",
+    "Switch.md",
+    "Interfaz.md",
+    "IP.md",
+    "Computador.md",
+    "Hub.md",
+    "Dominio de colisión.md",
+    "Dominio de broadcast.md",
+    "CCNA.md",
+    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
     "Pasted image 20250109125905.png",
-    "SOHO.md",
-    "Metro Ethernet.md",
-    "E-Line.md",
-    "Enlace troncal.md",
-    "Punto a Punto.md",
-    "E-Tree.md",
-    "E-Lane.md",
-    "Cable Modem.md",
-    "Cable Coaxial.md",
-    "DSLAM.md",
-    "Multiplexer.md",
     "Pasted image 20250109103014.png",
     "Pasted image 20250109103004.png",
     "Pasted image 20250109102750.png",

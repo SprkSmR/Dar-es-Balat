@@ -8,7 +8,7 @@ Estándar de comunicación global para [[LAN]] y [[WAN]].
 - Interconexión de los dispositivos de red en una [[Topología física de estrella]].
 - Regeneración de la [[Señal]].
 - **PRINCIPAL:** Entiende y envía tráfico basado en la dirección [[MAC]] de la [[Tarjeta de red]] de un [[Computador]].
-- **PRINCIPAL:** Optimiza el tráfico por medio de [[Segmentación de redes]] para tener [[Dominios de colisión]] más pequeños ([[Micro Segmentación]]), pero mantiene un solo [[Dominio de broadcast]].
+- **PRINCIPAL:** Optimiza el tráfico por medio de [[Segmentación de redes]] para tener varios [[Dominios de colisión]] más pequeños ([[Micro Segmentación]]). Cada puerto es un [[Dominio de colisión]] nuevo. Pero mantiene un solo [[Dominio de broadcast]] ([[VLAN]]s). Sin embargo, se pueden crear múltiples [[VLAN]]s, donde cada [[VLAN]] es un [[Dominio de broadcast]] diferente.
 
 ## No tiene/hace:
 - No entiende de direcciones [[IP]]. Solo [[MAC]]S, a no ser que sea un [[Switch Multicapa]] de **Capa 3**.
@@ -16,6 +16,7 @@ Estándar de comunicación global para [[LAN]] y [[WAN]].
 ## Otras características y datos:
 - Guarda una tabla de direcciones llamada [[MAC Address Table]].
 - Un Switch retiene una dirección [[MAC]] por 5 minutos, si no se usa activamente.
+- Ofrece [[Ancho de banda]] por puerto, no en todo el switch.
 - Al tratar de conectar dos Switches, se genera un [[Uplink]] donde ambos tratarán de aprender mutuamente sobre ellos, solicitándose su dirección [[MAC]] mutuamente. Esto genera lo que se conoce como un Loop. Para romper este protocolo, es necesario un [[STP]].
 
 ## Tipos:

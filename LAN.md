@@ -1,6 +1,6 @@
 Local Area Network. Red de Área Local.
 
-Red de [[Computador]]es y componentes interconectados en un área limitada. 
+Red de [[Computador]]es y componentes interconectados en un área limitada. Agrupación física de un conjunto de dispositivos.
 
 Se encuentra en **hogares**, **pequeñas oficinas** y **edificios corporativos**.
 
@@ -13,6 +13,7 @@ Se encuentra en **hogares**, **pequeñas oficinas** y **edificios corporativos**
 - [[Router]]s.
 - [[Servidor]]es [[DHCP]]
 - [[DNS]]
+- [[Access Point]]s
 
 
 ## Diagrama:
