@@ -1,7 +1,7 @@
-A ctf for beginners, can you root me? 
+A [[CTF]] for beginners, can you root me? [[TryHackMe]] room.
 
 # Writeup
-## 1. Deploy machine and connect to VPN
+## 1. Deploy machine and connect to [[VPN]]
 ![[Pasted image 20240228025156.png]]
 
 Connect using [[OpenVPN]]. 
