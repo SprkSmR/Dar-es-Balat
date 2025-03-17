@@ -29,7 +29,7 @@ Se utiliza solo para [[Enlace troncal]]'es. En esas situaciones, actúa como un 
 Todas las tramas están etiquetadas con un [[Enlace troncal]] [[802.1Q]] excepto las de la [[VLAN]] nativa
 
 ## VLAN de administración
-Se encarga del tráfico [[SSH]]/[[Telnet VTY]] y no maneja tráfico del usuario final. Se encarga de la configuración. 
+Se encarga del tráfico [[SSH]]/[[Telnet]] y no maneja tráfico del usuario final. Se encarga de la configuración. 
 
 Normalmente, es el [[SVI]] para el [[Conmutador]] de capa 2 ([[Enlace de datos]]).
 

@@ -1,0 +1,1 @@
+Modo default al que se accede a los [[Dispositivos de red]] sin privilegios.

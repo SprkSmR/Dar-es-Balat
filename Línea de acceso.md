@@ -1,0 +1,1 @@
+Diferentes vías para acceder al dispositivo, como puerto de consola, puerto aux o líneas [[VTY]].
