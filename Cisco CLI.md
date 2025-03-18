@@ -1,5 +1,5 @@
 # General
-Comandos que sirven desde [[Modo usuario]] hasta [[Modo de configuración global]].
+Comandos que sirven desde [[Modo usuario]] (>) hasta [[Modo de configuración global]].
 
 Habilitar el [[Modo Privilegiado]] en [[Switch]]es y [[Router]]s [[Cisco]]: 
 ````
@@ -15,7 +15,7 @@ Salir del modo actual ([[Modo de configuración global]]  > [[Modo Privilegiado]
 ````
 exit
 ````
-# [[Modo Privilegiado]]
+# [[Modo Privilegiado]] (#)
 Habilitar el [[Modo de configuración global]] en [[Switch]]es y [[Router]]s [[Cisco]]:
 ````
 configure terminal
@@ -31,7 +31,12 @@ Guardar configuración actual en la memoria [[NVRAM]] del dispositivo, para que 
 write
 ````
 
-# [[Modo de configuración global]]
+Guardar configuración de la memoria [[RAM]] en la memoria [[NVRAM]] del dispositivo:
+````
+copy running-config startup-config
+````
+
+# [[Modo de configuración global]] (config)
 Cambiar el nombre de un [[Dispositivos de red]]:
 ````
 hostname [NOMBRE]

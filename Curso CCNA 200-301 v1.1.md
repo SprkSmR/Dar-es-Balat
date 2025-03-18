@@ -13,19 +13,16 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 #### Parte 1.4 [[Modelo OSI]]
 
 #### Parte 1.5 [[Modelo TCP-IP]]
-
 ---
 #### Parte 2.1 [[TCP vs. UDP]] Parte 1
 
 #### Parte 2.2 [[TCP vs. UDP]] Parte 2
-
 ---
 #### Parte 3.1 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 1
 
 #### Parte 3.2 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 2
 
 #### Parte 3.3 [[Ethernet]] y [[Definición de Tecnología WAN]] Parte 3
-
 
 ### Presentaciones
 
@@ -84,3 +81,59 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 
 ##### Documento original:
 ![[THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf]]
+
+## Capitulo 2 - Fundamentos de Switching
+### Sesiones
+#### [[Dominio de colisión]] vs [[Dominio de broadcast]]
+---
+#### [[ARP]], [[ICMP]] y [[Lógica de Switching]]
+---
+#### Modos de Acceso al [[Switch]]
+---
+#### Configuración Básica del [[Switch]] - Parte 1
+
+#### Configuración Básica del [[Switch]] - Parte 2
+
+#### Configuración Básica del [[Switch]] - Parte 3
+
+#### Configuración Básica del [[Switch]] - Parte 4
+---
+#### Administración [[Cisco IOS]] - Parte 1
+
+#### Administración [[Cisco IOS]] - Parte 2
+
+#### Administración [[Cisco IOS]] - Parte 3
+---
+#### Configurando [[Cisco IOS]] - Parte 1
+
+#### Configurando [[Cisco IOS]] - Parte 2
+
+### Presentaciones
+
+1. **_Presentación 1_** _- Conceptos y [[Lógica de Switching]] ![[THOR-CCNA-200-301-PPT-1-CyL-Switching-v1.0.pdf]]
+2. **_Presentación 2_** _- Administrando el IOS![[THOR-CCNA-200-301-PPT-2--AdminIOS-v1.0 1.pdf]]
+### Documentos complementarios (Fundamentos de Switching):
+#### Conceptos y Lógica de Switching
+##### Conceptos clave:
+- [[Dominio de colisión]]
+- [[Dominio de broadcast]]
+- Solicitudes [[ARP]] y [[Ping]]
+- [[Lógica de Switching]]
+- [[Telnet]]
+- [[Modo usuario]]
+- [[Modo Privilegiado]]
+- [[Modo de configuración global]]
+- [[Cisco CLI]]
+
+##### Documento original:
+![[THOR_CCNA_200-301-T-CyL-Switching-Parte-1-v2.0.pdf]]
+
+#### Administrando el IOS
+##### Conceptos clave:
+- [[Tipos de memoria]]
+- [[Secuencia de Inicialización del IOS]]
+- [[Registro de Configuración]] del [[Cisco IOS]]
+- [[Cisco CLI]]
+
+##### Documento original:
+![[THOR_CCNA_200-301-T-AdminIOS-Switching-Parte-v2.0.pdf]]
