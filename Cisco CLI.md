@@ -16,6 +16,11 @@ Salir del modo actual ([[Modo de configuración global]]  > [[Modo Privilegiado]
 exit
 ````
 # [[Modo Privilegiado]] (#)
+Deshabilitar el [[Modo Privilegiado]] en [[Switch]]es y [[Router]]s [[Cisco]]: 
+````
+disable
+````
+
 Habilitar el [[Modo de configuración global]] en [[Switch]]es y [[Router]]s [[Cisco]]:
 ````
 configure terminal
@@ -36,13 +41,38 @@ Guardar configuración de la memoria [[RAM]] en la memoria [[NVRAM]] del disposi
 copy running-config startup-config
 ````
 
+Habilitar reloj:
+````
+clock set [HH:MM:SS] [DIA] [MES] [AÑO]
+````
+
+Mostrar información de una interfaz:
+````
+show interface [INTERFAZ]
+````
+
+Mostrar información de una [[VLAN]](**para [[Switch]]es**):
+````
+show interface vlan [NÚMERO DE VLAN]
+````
+
 # [[Modo de configuración global]] (config)
+Deshabilitar el [[Modo de configuración global]] en [[Switch]]es y [[Router]]s [[Cisco]]:
+````
+end
+````
+
 Cambiar el nombre de un [[Dispositivos de red]]:
 ````
 hostname [NOMBRE]
 ````
 
-Habilitar contraseña para pasar del [[Modo usuario]] al [[Modo Privilegiado]]:
+Habilitar contraseña para pasar del [[Modo usuario]] al [[Modo Privilegiado]] (texto plano):
+````
+enable password [CONTRASEÑA]
+````
+
+Habilitar contraseña para pasar del [[Modo usuario]] al [[Modo Privilegiado]] ([[MD5]]):
 ````
 enable secret [CONTRASEÑA]
 ````
@@ -50,6 +80,11 @@ enable secret [CONTRASEÑA]
 Acceder a una interfaz para configurarla:
 ````
 interface [INTERFAZ]
+````
+
+Acceder a una [[VLAN]] para configurarla (**para [[Switch]]es**):
+````
+interface vlan [NÚMERO DE VLAN]
 ````
 
 Acceder a una [[Línea de acceso]] para configurarla:
@@ -66,9 +101,14 @@ Permite crear un usuario en la [[Base de datos]] de [[Cisco]] para acceder al eq
 ````
 username [NOMBRE] privilege [NÚMERO DE PRIVILEGIO] secret [CONTRASEÑA]
 ````
- 
-## Dentro de una interfaz
-Cambiar la descripción de la interfaz:
+
+Definir [[Puerta de Enlace Predeterminada]]:
+````
+ip default-gateway [IP DE LA PUERTA DE ENLACE]
+````
+
+## Dentro de una interfaz o [[VLAN]]
+Cambiar la descripción de la interfaz o [[VLAN]]:
 ````
 description [DESCRIPCIÓN]
 ````
@@ -81,6 +121,16 @@ ip address [IP] [MÁSCARA DE SUBRED]
 Tirar un puerto:
 ````
 shutdown
+````
+
+Configurar mecanismo de transmisión [[Duplex]]: 
+````
+duplex [AUTO | HALF | FULL]
+````
+
+Configurar [[Ancho de banda]]: 
+````
+speed [AUTO | 10 | 100 | 1000]
 ````
 
 ## Dentro de una [[Línea de acceso]]
@@ -114,7 +164,7 @@ Permite solo uno o ambos [[Protocolo]]s de acceso remoto ([[Telnet]] y [[SSH]]):
 transport input [PROTOCOLO]
 ````
 
-# PENDIENTE DE CATALOGAR 
+# vvv PENDIENTE DE CATALOGAR vvv
 
 ````
 end
