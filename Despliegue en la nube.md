@@ -40,13 +40,13 @@ Sin embargo, en la ranura de producción no debería haber despliegue continuo d
 ![[Pasted image 20231011090506.png]]
 
 # Despliegue continuo de contenedores
-Desplegar la [[imagen]] del [[contenedor]] en una ranura provisional e intercambiar con la ranura de producción. 
-Este tipo de automatización es más compleja que con código porque debe subirse la [[imagen]] a un [[registro de contenedor]]  y actualizar la etiqueta de la [[imagen]] en la [[Web App]].
+Desplegar la [[Imagen]] del [[contenedor]] en una ranura provisional e intercambiar con la ranura de producción. 
+Este tipo de automatización es más compleja que con código porque debe subirse la [[Imagen]] a un [[registro de contenedor]]  y actualizar la etiqueta de la [[Imagen]] en la [[Web App]].
 
 Para cada rama que deba desplegarse en una ranura, lo siguiente debe automatizarse tras cada [[commit]] en la rama:
-- [[Compilar]] y etiquetar la [[imagen]]. Como parte del [[Pipeline]], etiquetar la [[imagen]]con el ID del [[commit]] de [[Git]], marca de tiempo y otra información identificable. No utilizar la etiqueta "último", "final" o parecidos. 
-- Subir la [[imagen]] etiquetada al [[registro de contenedor]]. 
-- Actualizar la ranura de despliegue con la nueva etiqueta de [[imagen]]. El servicio se reinicia y jala la nueva [[imagen]] del [[contenedor]] del [[registro de contenedor]].
+- [[Compilar]] y etiquetar la [[Imagen]]. Como parte del [[Pipeline]], etiquetar la [[Imagen]]con el ID del [[commit]] de [[Git]], marca de tiempo y otra información identificable. No utilizar la etiqueta "último", "final" o parecidos. 
+- Subir la [[Imagen]] etiquetada al [[registro de contenedor]]. 
+- Actualizar la ranura de despliegue con la nueva etiqueta de [[Imagen]]. El servicio se reinicia y jala la nueva [[Imagen]] del [[contenedor]] del [[registro de contenedor]].
 
 ![[Pasted image 20231011113021.png]]
 

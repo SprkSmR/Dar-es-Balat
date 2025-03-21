@@ -15,6 +15,12 @@ Salir del modo actual ([[Modo de configuración global]]  > [[Modo Privilegiado]
 ````
 exit
 ````
+
+Sugerir opciones de comandos disponibles a partir del actual: 
+````
+?
+````
+
 # [[Modo Privilegiado]] (#)
 Deshabilitar el [[Modo Privilegiado]] en [[Switch]]es y [[Router]]s [[Cisco]]: 
 ````
@@ -31,14 +37,20 @@ Mostrar la configuración actual del dispositivo:
 show running-config
 ````
 
-Guardar configuración actual en la memoria [[NVRAM]] del dispositivo, para que los cambios persistan tras un reinicio:
+Mostrar la configuración almacenada en la [[NVRAM]] del dispositivo:
 ````
-write
+show startup-config
 ````
 
-Guardar configuración de la memoria [[RAM]] en la memoria [[NVRAM]] del dispositivo:
+
+Guardarla configuración que está almacenada en un sitio, en otro. Por ejemplo, la configuración actual ([[RAM]]) en la memoria [[NVRAM]] del dispositivo, para que los cambios persistan tras un reinicio:
 ````
-copy running-config startup-config
+copy [startup-config | running-config | tftp | flash] [startup-config | running-config | tftp | flash]
+````
+
+Guardar configuración actual en la memoria [[NVRAM]] del dispositivo, para que los cambios persistan tras un reinicio (forma abreviada. No disponible en algunos equipos [[Legacy]]):
+````
+write
 ````
 
 Habilitar reloj:
@@ -54,6 +66,31 @@ show interface [INTERFAZ]
 Mostrar información de una [[VLAN]](**para [[Switch]]es**):
 ````
 show interface vlan [NÚMERO DE VLAN]
+````
+
+Muestra la versión del [[Cisco IOS]] y otros datos como el valor del [[Registro de Configuración]]: 
+````
+show version
+````
+
+Muestra la versión del [[Cisco IOS]] almacenada en la [[Memoria]] [[Flash]] y el espacio en la [[Memoria]]:
+````
+show flash
+````
+
+Ver si hay [[Boot System]]s configurados (cargado actualmente en [[RAM]]): 
+````
+show running-config
+````
+
+Ver el archivo de configuración actualmente guardado en [[NVRAM]]:
+````
+show startup-config
+````
+
+Reiniciar el dispositivo:
+````
+reload
 ````
 
 # [[Modo de configuración global]] (config)
@@ -107,6 +144,16 @@ Definir [[Puerta de Enlace Predeterminada]]:
 ip default-gateway [IP DE LA PUERTA DE ENLACE]
 ````
 
+Definir [[Registro de Configuración]]:
+````
+config-register [REGISTRO (DEFAULT=0x2102)]
+````
+
+Carga la [[Imagen]] del [[Cisco IOS]] desde una [[Memoria]] [[Flash]]:
+````
+boot system [flash | tftp] [NOMBRE DE LA IMAGEN]
+````
+
 ## Dentro de una interfaz o [[VLAN]]
 Cambiar la descripción de la interfaz o [[VLAN]]:
 ````
@@ -125,7 +172,7 @@ shutdown
 
 Configurar mecanismo de transmisión [[Duplex]]: 
 ````
-duplex [AUTO | HALF | FULL]
+duplex [auto | half | full]
 ````
 
 Configurar [[Ancho de banda]]: 
@@ -162,6 +209,33 @@ exec-timeout [MINUTOS] [SEGUNDOS]
 Permite solo uno o ambos [[Protocolo]]s de acceso remoto ([[Telnet]] y [[SSH]]):
 ````
 transport input [PROTOCOLO]
+````
+
+# Modo [[ROMmon]] (rommon #>)
+
+Definir [[Registro de Configuración]]:
+````
+confreg [REGISTRO (DEFAULT=0x2102)]
+````
+
+Leer contenido e información de [[Memoria]] [[Flash]]:
+````
+dir flash:
+````
+
+Cargar una [[Imagen]] del [[Cisco IOS]] que esté almacenado en la [[Memoria]] [[Flash]]
+````
+boot [IMAGEN IOS]:
+````
+
+Cargar una [[Imagen]] del [[Cisco IOS]] que esté a través de la [[Red]] por medio de [[TFTP]]
+````
+tftpdnld [IMAGEN IOS]:
+````
+
+Salir del modo [[ROMmon]]
+````
+reset
 ````
 
 # vvv PENDIENTE DE CATALOGAR vvv
