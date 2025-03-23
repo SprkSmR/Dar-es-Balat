@@ -93,6 +93,11 @@ Reiniciar el dispositivo:
 reload
 ````
 
+Eliminar archivos en [[Memoria]] [[Flash]]. Después se pasa el nombre del archivo:
+````
+delete flash
+````
+
 # [[Modo de configuración global]] (config)
 Deshabilitar el [[Modo de configuración global]] en [[Switch]]es y [[Router]]s [[Cisco]]:
 ````

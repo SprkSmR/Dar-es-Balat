@@ -187,7 +187,7 @@
               "type": "outline",
               "state": {
                 "file": "Cisco CLI.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -212,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a093f09091ca0dd5",
+  "active": "49cb60678b9b0812",
   "lastOpenFiles": [
     "Ancho de banda.md",
     "Cisco CLI.md",
