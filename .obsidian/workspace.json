@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Curso CCNA 200-301 v1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cisco CLI"
+              "title": "Curso CCNA 200-301 v1.1"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CLI",
+                "query": "Curso CCNA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco CLI.md",
+                "file": "Curso CCNA 200-301 v1.1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cisco CLI"
+              "title": "Outline of Curso CCNA 200-301 v1.1"
             }
           }
         ],
@@ -212,10 +212,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49cb60678b9b0812",
+  "active": "a093f09091ca0dd5",
   "lastOpenFiles": [
-    "Ancho de banda.md",
+    "THOR_CCNA_200-301-Teoria-3-THOOT-PLANOSCONTROL-v1.0.pdf",
+    "STP.md",
+    "Curso CCNA 200-301 v1.1.md",
+    "THOR_CCNA_200-301-Teoria-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf",
+    "THOR_CCNA_200-301-Teoria-1-VLAN-Trunk-VTP-v1.0.pdf",
+    "THOR-CCNA-200-2031-PPT-3-TSHOOT-PLANOS-v1.0.pdf",
+    "Untitled 6.md",
+    "THOR-CCNA-200-2031-PPT-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf",
+    "THOR-CCNA-200-2031-PPT-1-VLAN-TRUNK-VTP-v1.0.pdf",
+    "Root Bridge.md",
     "Cisco CLI.md",
+    "Ancho de banda.md",
     "Duplex.md",
     "Full-Duplex.md",
     "Half-Duplex.md",
@@ -226,7 +236,6 @@
     "VLAN.md",
     "Tecnología/Términos comunes/CLI.md",
     "ARP.md",
-    "Curso CCNA 200-301 v1.1.md",
     "Tipos de memoria.md",
     "Tecnología/Términos comunes/Organización computacional.md",
     "Tecnología/Libros/Essentials of Computer Organization and Architecture.md",
@@ -241,21 +250,12 @@
     "iOS.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
     "Switch.md",
-    "Dispositivos de red.md",
-    "Valores de acceso por consola.md",
-    "Telnet.md",
-    "SSH.md",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0 1.pdf",
     "Pasted image 20250109125905.png",
     "Pasted image 20250109103014.png",
     "Pasted image 20250109103004.png",
     "Pasted image 20250109102750.png",
     "Pasted image 20250108102750.png",
     "Pasted image 20250108093149.png",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-5-v1.0.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-4-v1.0 1.pdf",
-    "THOR-CCNA-200-301-Teoria-FundNetworking-Parte-3-v1.0.pdf",
     "Pasted image 20241201050432.png",
     "Pasted image 20241201045857.png",
     "Pasted image 20241201044341.png",

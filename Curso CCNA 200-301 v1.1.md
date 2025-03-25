@@ -137,3 +137,70 @@ Curso de [[Udemy]] sobre el examen [[CCNA 200-301 v1.1]]:
 
 ##### Documento original:
 ![[THOR_CCNA_200-301-T-AdminIOS-Switching-Parte-v2.0.pdf]]
+
+## Capítulo 3 - [[VLAN]], [[STP]] y [[Etherchannel]]
+### Sesiones
+#### [[VLAN]] y [[Trunk]] - Parte 1
+
+#### [[VLAN]] y [[Trunk]] - Parte 2
+---
+#### Configuración de [[VLAN]] y [[Trunk]] - Parte 1
+
+#### Configuración de [[VLAN]] y [[Trunk]] - Parte 2
+---
+#### [[STP]] - Parte 1
+
+#### [[STP]] - Parte 1.1 - Elección del [[Root Bridge]], [[Root Port]] y [[Designated Port]]
+
+#### [[STP]] - Parte 2
+---
+#### [[RSTP]]
+---
+#### Configuración de [[STP]]
+---
+#### [[Etherchannel]]
+
+#### Configuración de [[Etherchannel]]
+---
+#### Fundamentos de Resolución de Problemas de Capa 2
+---
+
+### Presentaciones
+
+1. **_Presentación 1_** _- [[VLAN]]-[[TRUNK]]-[[VTP]] ![[THOR-CCNA-200-2031-PPT-1-VLAN-TRUNK-VTP-v1.0.pdf]]
+2. **_Presentación 2_** _- [[STP]]-[[RSTP]] y [[Etherchannel]] ![[THOR-CCNA-200-2031-PPT-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf]]
+3. **Presentación 3** - TSHOOT SWITCHING ![[THOR-CCNA-200-2031-PPT-3-TSHOOT-PLANOS-v1.0.pdf]]
+### Documentos complementarios ([[VLAN]], [[STP]] y [[Etherchannel]]):
+#### [[VLAN]] -[[Trunk]] - [[VTP]]
+##### Conceptos clave:
+- Definición de [[LAN]]
+- Definición de [[Trunk]]ing
+- Modos [[Administrativo]]s y [[Operativo]]s de Creación de [[Trunk]]
+- Protocolos de [[Encapsulamiento de la Data]] de [[Trunk]]
+- Principales comandos para la configuración de [[VLAN]]
+- Modos de [[VTP]]
+- Definición de [[Prunning]]
+- Principales comandos para la configuración de [[VTP]] y [[Prunning]]
+##### Documento original:
+![[THOR_CCNA_200-301-Teoria-1-VLAN-Trunk-VTP-v1.0.pdf]]
+
+#### [[STP]]-[[RSTP]] y [[Etherchannel]]
+##### Conceptos clave:
+- Identificación del problema de Tráfico a nivel de Capa 2
+- Definición de [[STP]]
+- Opciones de mejoras para [[STP]]
+- Definición de [[RSTP]]
+- Definición de [[Etherchannel]] de Capa 2
+- Principales comandos [[STP]], [[RSTP]] y [[Etherchannel]]
+##### Documento original:
+![[THOR_CCNA_200-301-Teoria-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf]]
+
+#### Resolución de Problemas de Switching
+##### Conceptos clave:
+- Introducción a la Resolución de Problemas de Capa 2
+- Metodología para la Resolución de Problemas
+- [[Data Plane]] vs [[Control Plane]]
+- El [[Data Plane]] en la Capa 2
+- Principales Comandos para la Resolución de Problemas de Capa 2
+##### Documento original:
+![[THOR_CCNA_200-301-Teoria-3-THOOT-PLANOSCONTROL-v1.0.pdf]]
