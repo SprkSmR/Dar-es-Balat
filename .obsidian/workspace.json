@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso CCNA 200-301 v1.1.md",
+                "file": "Cisco CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso CCNA 200-301 v1.1"
+              "title": "Cisco CLI"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Curso CCNA",
+                "query": "cisco cli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso CCNA 200-301 v1.1.md",
+                "file": "Cisco CLI.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curso CCNA 200-301 v1.1"
+              "title": "Outline of Cisco CLI"
             }
           }
         ],
@@ -214,16 +214,16 @@
   },
   "active": "a093f09091ca0dd5",
   "lastOpenFiles": [
+    "Curso CCNA 200-301 v1.1.md",
+    "Root Bridge.md",
     "THOR_CCNA_200-301-Teoria-3-THOOT-PLANOSCONTROL-v1.0.pdf",
     "STP.md",
-    "Curso CCNA 200-301 v1.1.md",
     "THOR_CCNA_200-301-Teoria-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf",
     "THOR_CCNA_200-301-Teoria-1-VLAN-Trunk-VTP-v1.0.pdf",
     "THOR-CCNA-200-2031-PPT-3-TSHOOT-PLANOS-v1.0.pdf",
     "Untitled 6.md",
     "THOR-CCNA-200-2031-PPT-2-STP-RSTP-ETHERCHANNEL-v3.0.pdf",
     "THOR-CCNA-200-2031-PPT-1-VLAN-TRUNK-VTP-v1.0.pdf",
-    "Root Bridge.md",
     "Cisco CLI.md",
     "Ancho de banda.md",
     "Duplex.md",
@@ -246,7 +246,6 @@
     "THOR_CCNA_200-301-T-CyL-Switching-Parte-1-v2.0.pdf",
     "THOR-CCNA-200-301-PPT-2--AdminIOS-v1.0 1.pdf",
     "THOR-CCNA-200-301-PPT-1-CyL-Switching-v1.0.pdf",
-    "THOR-CCNA-200-301-PPT-2--AdminIOS-v1.0.pdf",
     "iOS.md",
     "Tecnología/Frameworks, librerías y otras plataformas en específico/dotNET (.NET).md",
     "Switch.md",

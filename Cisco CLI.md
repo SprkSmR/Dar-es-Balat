@@ -119,6 +119,11 @@ Habilitar contraseña para pasar del [[Modo usuario]] al [[Modo Privilegiado]] (
 enable secret [CONTRASEÑA]
 ````
 
+Crear una nueva [[VLAN]]:
+````
+vlan [NÚMERO DE VLAN]
+````
+
 Acceder a una interfaz para configurarla:
 ````
 interface [INTERFAZ]
@@ -163,6 +168,11 @@ boot system [flash | tftp] [NOMBRE DE LA IMAGEN]
 Cambiar la descripción de la interfaz o [[VLAN]]:
 ````
 description [DESCRIPCIÓN]
+````
+
+Configurar nombre de [[VLAN]]: 
+````
+name [NOMBRE DE VLAN]
 ````
 
 Asignar una dirección [[IP]]:
