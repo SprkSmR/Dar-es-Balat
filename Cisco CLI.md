@@ -195,6 +195,16 @@ Configurar [[Ancho de banda]]:
 speed [AUTO | 10 | 100 | 1000]
 ````
 
+Cambiar el modo de un puerto:
+````
+switchport mode [trunk | access]
+````
+	
+Desactivar [[DTP]]:
+````
+switchport nonegotiate
+````
+
 ## Dentro de una [[Línea de acceso]]
 Configurar una contraseña para acceder por esta [[Línea de acceso]]:
 ````
