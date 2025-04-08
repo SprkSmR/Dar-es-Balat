@@ -68,6 +68,16 @@ Mostrar información de una [[VLAN]](**para [[Switch]]es**):
 show interface vlan [NÚMERO DE VLAN]
 ````
 
+Mostrar interfaces [[Trunk]]:
+````
+show interface trunk
+````
+
+Ver configuración de modo de acceso en puertos:
+````
+show interface [INTERFAZ] switchport
+````
+
 Muestra la versión del [[Cisco IOS]] y otros datos como el valor del [[Registro de Configuración]]: 
 ````
 show version
@@ -96,6 +106,11 @@ reload
 Eliminar archivos en [[Memoria]] [[Flash]]. Después se pasa el nombre del archivo:
 ````
 delete flash
+````
+
+Ver estado de la configuración [[VTP]]:
+````
+show vtp status
 ````
 
 # [[Modo de configuración global]] (config)
@@ -164,6 +179,26 @@ Carga la [[Imagen]] del [[Cisco IOS]] desde una [[Memoria]] [[Flash]]:
 boot system [flash | tftp] [NOMBRE DE LA IMAGEN]
 ````
 
+Crear dominio [[VTP]]:
+````
+vtp domain [NOMBRE]
+````
+
+Establecer modo [[VTP]]:
+````
+vtp mode [client | server | transparent]
+````
+
+Establecer contraseña al dominio [[VTP]]:
+````
+vtp password [CONTRASEÑA]
+````
+
+Establecer versión de [[VTP]]:
+````
+vtp version [1 | 2 | 3]
+````
+
 ## Dentro de una interfaz o [[VLAN]]
 Cambiar la descripción de la interfaz o [[VLAN]]:
 ````
@@ -197,12 +232,32 @@ speed [AUTO | 10 | 100 | 1000]
 
 Cambiar el modo de un puerto:
 ````
-switchport mode [trunk | access]
+switchport mode [trunk | access | dynamic]
 ````
-	
+
+Cambiar modo dinámico:
+````
+switchport mode dynamic [auto | desirable]
+````
+
 Desactivar [[DTP]]:
 ````
 switchport nonegotiate
+````
+
+Asignar un puerto en modo [[802.1Q]] (la interfaz debe estar en modo [[Trunk]]):
+````
+switchport trunk encapsulation dot1q
+````
+
+Agregar [[VLAN]]s permitidas a una interfaz [[Trunk]]:
+````
+switchport trunk allowed vlan add [VLAN]
+````
+
+Eliminar [[VLAN]]s permitidas de una interfaz [[Trunk]]:
+````
+switchport trunk allowed vlan remove [VLAN]
 ````
 
 ## Dentro de una [[Línea de acceso]]
