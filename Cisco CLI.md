@@ -144,6 +144,11 @@ Acceder a una interfaz para configurarla:
 interface [INTERFAZ]
 ````
 
+Acceder a un rango de interfaces para configurarlo:
+````
+interface range [INTERFAZ] - [NÚMERO DE INTERFAZ FINAL DEL RANGO]
+````
+
 Acceder a una [[VLAN]] para configurarla (**para [[Switch]]es**):
 ````
 interface vlan [NÚMERO DE VLAN]
@@ -258,6 +263,11 @@ switchport trunk allowed vlan add [VLAN]
 Eliminar [[VLAN]]s permitidas de una interfaz [[Trunk]]:
 ````
 switchport trunk allowed vlan remove [VLAN]
+````
+
+Asignar puerto de acceso a [[VLAN]]
+````
+switchport access vlan [VLAN]
 ````
 
 ## Dentro de una [[Línea de acceso]]
@@ -395,9 +405,6 @@ name *nombre*
 ````
 
 ## Cambiar un puerto a otra [[VLAN]]
-````
-switchport access vlan *vlan-id*
-````
 
 ## Eliminar configuración de [[VLAN]]
 ````

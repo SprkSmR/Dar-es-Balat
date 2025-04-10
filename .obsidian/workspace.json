@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnología/Términos comunes/Componentes de una computadora.md",
+                "file": "Cisco CLI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Componentes de una computadora"
+              "title": "Backlinks for Cisco CLI"
             }
           },
           {
@@ -212,8 +212,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27c098e65e246ec3",
+  "active": "0a0fb68f37eefbcf",
   "lastOpenFiles": [
+    "Tecnología/Términos comunes/Componentes de una computadora.md",
     "Tecnología/Términos comunes/CPU.md",
     "Tecnología/Términos comunes/Memoria.md",
     "Tecnología/Términos comunes/Registros.md",
@@ -249,7 +250,6 @@
     "THOR_CCNA_200-301-T-CyL-Switching-Parte-1-v2.0.pdf",
     "THOR-CCNA-200-301-PPT-2--AdminIOS-v1.0 1.pdf",
     "THOR-CCNA-200-301-PPT-1-CyL-Switching-v1.0.pdf",
-    "iOS.md",
     "Pasted image 20250109125905.png",
     "Pasted image 20250109103014.png",
     "Pasted image 20250109103004.png",
